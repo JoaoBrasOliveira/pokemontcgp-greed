@@ -1,0 +1,9269 @@
+{
+  "1": {
+    "name": "Bulbasaur",
+    "rarity": "1_diamond",
+    "packs": [
+      "C"
+    ],
+    "staging": "Basic",
+    "type": "Grass",
+    "hp": 70,
+    "move": {
+      "name": "Vine Whip",
+      "damage": 40,
+      "special_condition": null,
+      "energy_requisite": [
+        "Grass",
+        "Colorless"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Fire"
+    },
+    "retreat_cost": 1,
+    "ability": null
+  },
+  "2": {
+    "name": "Ivysaur",
+    "rarity": "2_diamond",
+    "packs": [
+      "C"
+    ],
+    "staging": "Stage 1",
+    "type": "Grass",
+    "hp": 90,
+    "move": {
+      "name": "Razor Leaf",
+      "damage": 60,
+      "special_condition": null,
+      "energy_requisite": [
+        "Grass",
+        "Grass",
+        "Colorless"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Fire"
+    },
+    "retreat_cost": 2,
+    "ability": null
+  },
+  "3": {
+    "name": "Venusaur",
+    "rarity": "3_diamond",
+    "packs": [
+      "C"
+    ],
+    "staging": "Stage 2",
+    "type": "Grass",
+    "hp": 160,
+    "move": {
+      "name": "Mega Drain",
+      "damage": 80,
+      "special_condition": "Heal 30 damage from this Pok\u00e9mon.",
+      "energy_requisite": [
+        "Grass",
+        "Grass",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Fire"
+    },
+    "retreat_cost": 4,
+    "ability": null
+  },
+  "4": {
+    "name": "Venusaur EX",
+    "rarity": "4_diamond",
+    "packs": [
+      "C"
+    ],
+    "staging": "Stage 2",
+    "type": "Grass",
+    "hp": 190,
+    "move": {
+      "name": "Giant Bloom",
+      "damage": 100,
+      "special_condition": "Heal 30 damage from this Pok\u00e9mon.",
+      "energy_requisite": [
+        "Grass",
+        "Grass",
+        "Grass",
+        "Colorless"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Fire"
+    },
+    "retreat_cost": 4,
+    "ability": null
+  },
+  "5": {
+    "name": "Caterpie",
+    "rarity": "1_diamond",
+    "packs": [
+      "B"
+    ],
+    "staging": "Basic",
+    "type": "Grass",
+    "hp": 50,
+    "move": {
+      "name": "Find a Friend",
+      "damage": null,
+      "special_condition": "Put 1 Grass Pok\u00e9mon from your deck into your hand.",
+      "energy_requisite": [
+        "Colorless"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Fire"
+    },
+    "retreat_cost": 1,
+    "ability": null
+  },
+  "6": {
+    "name": "Metapod",
+    "rarity": "2_diamond",
+    "packs": [
+      "B"
+    ],
+    "staging": "Stage 1",
+    "type": "Grass",
+    "hp": 80,
+    "move": {
+      "name": "Bug Bite",
+      "damage": 30,
+      "special_condition": null,
+      "energy_requisite": [
+        "Grass",
+        "Colorless"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Fire"
+    },
+    "retreat_cost": 3,
+    "ability": null
+  },
+  "7": {
+    "name": "Butterfree",
+    "rarity": "3_diamond",
+    "packs": [
+      "B"
+    ],
+    "staging": "Stage 2",
+    "type": "Grass",
+    "hp": 120,
+    "move": {
+      "name": "Gust",
+      "damage": 60,
+      "special_condition": null,
+      "energy_requisite": [
+        "Grass",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Fire"
+    },
+    "retreat_cost": 0,
+    "ability": {
+      "name": "Powder Heal",
+      "text": "Once during your turn, you may heal 20 damage from each of your Pok\u00e9mon."
+    }
+  },
+  "8": {
+    "name": "Weedle",
+    "rarity": "1_diamond",
+    "packs": [
+      "C"
+    ],
+    "staging": "Basic",
+    "type": "Grass",
+    "hp": 50,
+    "move": {
+      "name": "Sting",
+      "damage": 20,
+      "special_condition": null,
+      "energy_requisite": [
+        "Grass"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Fire"
+    },
+    "retreat_cost": 1,
+    "ability": null
+  },
+  "9": {
+    "name": "Kakuna",
+    "rarity": "2_diamond",
+    "packs": [
+      "C"
+    ],
+    "staging": "Stage 1",
+    "type": "Grass",
+    "hp": 80,
+    "move": {
+      "name": "Bug Bite",
+      "damage": 30,
+      "special_condition": null,
+      "energy_requisite": [
+        "Grass",
+        "Colorless"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Fire"
+    },
+    "retreat_cost": 3,
+    "ability": null
+  },
+  "10": {
+    "name": "Beedrill",
+    "rarity": "3_diamond",
+    "packs": [
+      "C"
+    ],
+    "staging": "Stage 2",
+    "type": "Grass",
+    "hp": 120,
+    "move": {
+      "name": "Sharp Sting",
+      "damage": 70,
+      "special_condition": null,
+      "energy_requisite": [
+        "Grass",
+        "Grass"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Fire"
+    },
+    "retreat_cost": 0,
+    "ability": null
+  },
+  "11": {
+    "name": "Oddish",
+    "rarity": "1_diamond",
+    "packs": [
+      "A"
+    ],
+    "staging": "Basic",
+    "type": "Grass",
+    "hp": 60,
+    "move": {
+      "name": "Ram",
+      "damage": 20,
+      "special_condition": null,
+      "energy_requisite": [
+        "Grass"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Fire"
+    },
+    "retreat_cost": 1,
+    "ability": null
+  },
+  "12": {
+    "name": "Gloom",
+    "rarity": "2_diamond",
+    "packs": [
+      "A"
+    ],
+    "staging": "Stage 1",
+    "type": "Grass",
+    "hp": 80,
+    "move": {
+      "name": "Drool",
+      "damage": 40,
+      "special_condition": null,
+      "energy_requisite": [
+        "Grass",
+        "Grass"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Fire"
+    },
+    "retreat_cost": 2,
+    "ability": null
+  },
+  "13": {
+    "name": "Vileplume",
+    "rarity": "3_diamond",
+    "packs": [
+      "A"
+    ],
+    "staging": "Stage 2",
+    "type": "Grass",
+    "hp": 140,
+    "move": {
+      "name": "Soothing Scent",
+      "damage": 80,
+      "special_condition": "Your opponent's Active Pok\u00e9mon is now Asleep.",
+      "energy_requisite": [
+        "Grass",
+        "Grass",
+        "Colorless"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Fire"
+    },
+    "retreat_cost": 3,
+    "ability": null
+  },
+  "14": {
+    "name": "Paras",
+    "rarity": "1_diamond",
+    "packs": [
+      "B"
+    ],
+    "staging": "Basic",
+    "type": "Grass",
+    "hp": 70,
+    "move": {
+      "name": "Scratch",
+      "damage": null,
+      "special_condition": null,
+      "energy_requisite": [
+        "Colorless"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Fire"
+    },
+    "retreat_cost": 1,
+    "ability": null
+  },
+  "15": {
+    "name": "Parasect",
+    "rarity": "2_diamond",
+    "packs": [
+      "B"
+    ],
+    "staging": "Stage 1",
+    "type": "Grass",
+    "hp": 120,
+    "move": {
+      "name": "Slash",
+      "damage": null,
+      "special_condition": null,
+      "energy_requisite": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Fire"
+    },
+    "retreat_cost": 2,
+    "ability": null
+  },
+  "16": {
+    "name": "Venonat",
+    "rarity": "1_diamond",
+    "packs": [
+      "C"
+    ],
+    "staging": "Basic",
+    "type": "Grass",
+    "hp": 60,
+    "move": {
+      "name": "Tackle",
+      "damage": null,
+      "special_condition": null,
+      "energy_requisite": [
+        "Colorless"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Fire"
+    },
+    "retreat_cost": 1,
+    "ability": null
+  },
+  "17": {
+    "name": "Venomoth",
+    "rarity": "3_diamond",
+    "packs": [
+      "C"
+    ],
+    "staging": "Stage 1",
+    "type": "Grass",
+    "hp": 80,
+    "move": {
+      "name": "Poison Powder",
+      "damage": 30,
+      "special_condition": "Your opponent's Active Pok\u00e9mon is now Poisoned.",
+      "energy_requisite": [
+        "Grass",
+        "Colorless"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Fire"
+    },
+    "retreat_cost": 1,
+    "ability": null
+  },
+  "18": {
+    "name": "Bellsprout",
+    "rarity": "1_diamond",
+    "packs": [
+      "A"
+    ],
+    "staging": "Basic",
+    "type": "Grass",
+    "hp": 60,
+    "move": {
+      "name": "Vine Whip",
+      "damage": 30,
+      "special_condition": null,
+      "energy_requisite": [
+        "Grass",
+        "Colorless"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Fire"
+    },
+    "retreat_cost": 1,
+    "ability": null
+  },
+  "19": {
+    "name": "Weepinbell",
+    "rarity": "2_diamond",
+    "packs": [
+      "A"
+    ],
+    "staging": "Stage 1",
+    "type": "Grass",
+    "hp": 90,
+    "move": {
+      "name": "Razor Leaf",
+      "damage": 40,
+      "special_condition": null,
+      "energy_requisite": [
+        "Grass",
+        "Colorless"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Fire"
+    },
+    "retreat_cost": 1,
+    "ability": null
+  },
+  "20": {
+    "name": "Victreebel",
+    "rarity": "3_diamond",
+    "packs": [
+      "A"
+    ],
+    "staging": "Stage 2",
+    "type": "Grass",
+    "hp": 140,
+    "move": {
+      "name": "Vine Whip",
+      "damage": 60,
+      "special_condition": null,
+      "energy_requisite": [
+        "Grass",
+        "Grass",
+        "Colorless"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Fire"
+    },
+    "retreat_cost": 2,
+    "ability": {
+      "name": "Fragrance Trap",
+      "text": "Once during your turn, if this Pok\u00e9mon is in the Active Spot, you may switch 1 of your opponent's Benched Basic Pok\u00e9mon with their Active Pok\u00e9mon."
+    }
+  },
+  "21": {
+    "name": "Exeggcute",
+    "rarity": "1_diamond",
+    "packs": [
+      "A"
+    ],
+    "staging": "Basic",
+    "type": "Grass",
+    "hp": 50,
+    "move": {
+      "name": "Seed Bomb",
+      "damage": 20,
+      "special_condition": null,
+      "energy_requisite": [
+        "Grass",
+        "Colorless"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Fire"
+    },
+    "retreat_cost": 1,
+    "ability": null
+  },
+  "22": {
+    "name": "Exeggutor",
+    "rarity": "3_diamond",
+    "packs": [
+      "A"
+    ],
+    "staging": "Stage 1",
+    "type": "Grass",
+    "hp": 130,
+    "move": {
+      "name": "Stomp",
+      "damage": "30+",
+      "special_condition": "Flip a coin. If heads, this attack does 20 more damage.",
+      "energy_requisite": [
+        "Grass",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Fire"
+    },
+    "retreat_cost": 2,
+    "ability": null
+  },
+  "23": {
+    "name": "Exeggutor EX",
+    "rarity": "4_diamond",
+    "packs": [
+      "A"
+    ],
+    "staging": "Stage 1",
+    "type": "Grass",
+    "hp": 160,
+    "move": {
+      "name": "Tropical Swing",
+      "damage": "80+",
+      "special_condition": "Flip a coin. If heads, this attack does 40 more damage.",
+      "energy_requisite": [
+        "Grass",
+        "Grass",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Fire"
+    },
+    "retreat_cost": 3,
+    "ability": null
+  },
+  "24": {
+    "name": "Tangela",
+    "rarity": "1_diamond",
+    "packs": [
+      "A"
+    ],
+    "staging": "Basic",
+    "type": "Grass",
+    "hp": 80,
+    "move": {
+      "name": "Absorb",
+      "damage": 40,
+      "special_condition": "Heal 10 damage from this Pok\u00e9mon.",
+      "energy_requisite": [
+        "Grass",
+        "Grass"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Fire"
+    },
+    "retreat_cost": 2,
+    "ability": null
+  },
+  "25": {
+    "name": "Scyther",
+    "rarity": "1_diamond",
+    "packs": [
+      "C"
+    ],
+    "staging": "Basic",
+    "type": "Grass",
+    "hp": 70,
+    "move": {
+      "name": "Sharp Scythe",
+      "damage": 30,
+      "special_condition": null,
+      "energy_requisite": [
+        "Grass",
+        "Colorless"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Fire"
+    },
+    "retreat_cost": 1,
+    "ability": null
+  },
+  "26": {
+    "name": "Pinsir",
+    "rarity": "3_diamond",
+    "packs": [
+      "A",
+      "B",
+      "C"
+    ],
+    "staging": "Basic",
+    "type": "Grass",
+    "hp": 90,
+    "move": {
+      "name": "Double Horn",
+      "damage": "50+",
+      "special_condition": "Flip 2 coins. This attack does 40 more damage for each heads.",
+      "energy_requisite": [
+        "Grass",
+        "Grass",
+        "Colorless"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Fire"
+    },
+    "retreat_cost": 2,
+    "ability": null
+  },
+  "27": {
+    "name": "Cottonee",
+    "rarity": "1_diamond",
+    "packs": [
+      "A",
+      "B",
+      "C"
+    ],
+    "staging": "Basic",
+    "type": "Grass",
+    "hp": 50,
+    "move": {
+      "name": "Attach",
+      "damage": 10,
+      "special_condition": null,
+      "energy_requisite": [
+        "Colorless"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Fire"
+    },
+    "retreat_cost": 1,
+    "ability": null
+  },
+  "28": {
+    "name": "Whimsicott",
+    "rarity": "2_diamond",
+    "packs": [
+      "A",
+      "B",
+      "C"
+    ],
+    "staging": "Stage 1",
+    "type": "Grass",
+    "hp": 80,
+    "move": {
+      "name": "Rolling Tackle",
+      "damage": 40,
+      "special_condition": null,
+      "energy_requisite": [
+        "Grass",
+        "Colorless"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Fire"
+    },
+    "retreat_cost": 1,
+    "ability": null
+  },
+  "29": {
+    "name": "Petilil",
+    "rarity": "1_diamond",
+    "packs": [
+      "A",
+      "B",
+      "C"
+    ],
+    "staging": "Basic",
+    "type": "Grass",
+    "hp": 60,
+    "move": {
+      "name": "Blot",
+      "damage": 10,
+      "special_condition": "Heal 10 damage from this Pok\u00e9mon.",
+      "energy_requisite": [
+        "Grass"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Fire"
+    },
+    "retreat_cost": 1,
+    "ability": null
+  },
+  "30": {
+    "name": "Lilligant",
+    "rarity": "3_diamond",
+    "packs": [
+      "A",
+      "B",
+      "C"
+    ],
+    "staging": "Stage 1",
+    "type": "Grass",
+    "hp": 100,
+    "move": {
+      "name": "Leaf Supply",
+      "damage": 50,
+      "special_condition": "Take 2 Grass Energy from your discard pile and attach them to 1 of your Pok\u00e9mon.",
+      "energy_requisite": [
+        "Grass",
+        "Grass",
+        "Colorless"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Fire"
+    },
+    "retreat_cost": 2,
+    "ability": null
+  },
+  "31": {
+    "name": "Skiddo",
+    "rarity": "1_diamond",
+    "packs": [
+      "A"
+    ],
+    "staging": "Basic",
+    "type": "Grass",
+    "hp": 70,
+    "move": {
+      "name": "Surprise Attack",
+      "damage": 40,
+      "special_condition": "Flip a coin. If tails, this attack does nothing.",
+      "energy_requisite": [
+        "Grass",
+        "Colorless"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Fire"
+    },
+    "retreat_cost": 1,
+    "ability": null
+  },
+  "32": {
+    "name": "Gogoat",
+    "rarity": "3_diamond",
+    "packs": [
+      "A"
+    ],
+    "staging": "Stage 1",
+    "type": "Grass",
+    "hp": 120,
+    "move": {
+      "name": "Razor Leaf",
+      "damage": 70,
+      "special_condition": null,
+      "energy_requisite": [
+        "Grass",
+        "Grass",
+        "Colorless"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Fire"
+    },
+    "retreat_cost": 2,
+    "ability": null
+  },
+  "33": {
+    "name": "Charmander",
+    "rarity": "1_diamond",
+    "packs": [
+      "A"
+    ],
+    "staging": "Basic",
+    "type": "Fire",
+    "hp": 70,
+    "move": {
+      "name": "Ember",
+      "damage": 40,
+      "special_condition": "Discard 1 Fire Energy from this Pok\u00e9mon.",
+      "energy_requisite": [
+        "Fire",
+        "Colorless"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Water"
+    },
+    "retreat_cost": 1,
+    "ability": null
+  },
+  "34": {
+    "name": "Charmeleon",
+    "rarity": "2_diamond",
+    "packs": [
+      "A"
+    ],
+    "staging": "Stage 1",
+    "type": "Fire",
+    "hp": 90,
+    "move": {
+      "name": "Fire Claws",
+      "damage": 50,
+      "special_condition": null,
+      "energy_requisite": [
+        "Fire",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Water"
+    },
+    "retreat_cost": 2,
+    "ability": null
+  },
+  "35": {
+    "name": "Charizard",
+    "rarity": "3_diamond",
+    "packs": [
+      "A"
+    ],
+    "staging": "Stage 2",
+    "type": "Fire",
+    "hp": 150,
+    "move": {
+      "name": "Fire Spin",
+      "damage": 150,
+      "special_condition": "Discard 2 Fire Energy from this Pok\u00e9mon.",
+      "energy_requisite": [
+        "Fire",
+        "Fire",
+        "Fire",
+        "Colorless"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Water"
+    },
+    "retreat_cost": 3,
+    "ability": null
+  },
+  "36": {
+    "name": "Charizard EX",
+    "rarity": "4_diamond",
+    "packs": [
+      "A"
+    ],
+    "staging": "Stage 2",
+    "type": "Fire",
+    "hp": 180,
+    "move": {
+      "name": "Crimson Storm",
+      "damage": 300,
+      "special_condition": "Discard 3 Fire Energy from this Pok\u00e9mon.",
+      "energy_requisite": [
+        "Fire",
+        "Fire",
+        "Fire",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Water"
+    },
+    "retreat_cost": 3,
+    "ability": null
+  },
+  "37": {
+    "name": "Vulpix",
+    "rarity": "1_diamond",
+    "packs": [
+      "A"
+    ],
+    "staging": "Basic",
+    "type": "Fire",
+    "hp": 50,
+    "move": {
+      "name": "Tail Whip",
+      "damage": null,
+      "special_condition": "Flip a coin. If heads, the Defending Pok\u00e9mon can't attack during your opponent's next turn.",
+      "energy_requisite": [
+        "Colorless"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Water"
+    },
+    "retreat_cost": 1,
+    "ability": null
+  },
+  "38": {
+    "name": "Ninetales",
+    "rarity": "3_diamond",
+    "packs": [
+      "A"
+    ],
+    "staging": "Stage 1",
+    "type": "Fire",
+    "hp": 90,
+    "move": {
+      "name": "Flamethrower",
+      "damage": 90,
+      "special_condition": "Discard 1 Fire Energy from this Pok\u00e9mon.",
+      "energy_requisite": [
+        "Fire",
+        "Fire",
+        "Colorless"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Water"
+    },
+    "retreat_cost": 2,
+    "ability": null
+  },
+  "39": {
+    "name": "Growlithe",
+    "rarity": "1_diamond",
+    "packs": [
+      "B"
+    ],
+    "staging": "Basic",
+    "type": "Fire",
+    "hp": 70,
+    "move": {
+      "name": "Bite",
+      "damage": 20,
+      "special_condition": null,
+      "energy_requisite": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Water"
+    },
+    "retreat_cost": 1,
+    "ability": null
+  },
+  "40": {
+    "name": "Arcanine",
+    "rarity": "3_diamond",
+    "packs": [
+      "B"
+    ],
+    "staging": "Stage 1",
+    "type": "Fire",
+    "hp": 130,
+    "move": {
+      "name": "Heat Tackle",
+      "damage": 100,
+      "special_condition": "This Pok\u00e9mon does 30 damage to itself.",
+      "energy_requisite": [
+        "Fire",
+        "Fire",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Water"
+    },
+    "retreat_cost": 3,
+    "ability": null
+  },
+  "41": {
+    "name": "Arcanine EX",
+    "rarity": "4_diamond",
+    "packs": [
+      "B"
+    ],
+    "staging": "Stage 1",
+    "type": "Fire",
+    "hp": 150,
+    "move": {
+      "name": "Inferno Onrush",
+      "damage": 120,
+      "special_condition": "This Pok\u00e9mon does 30 damage to itself.",
+      "energy_requisite": [
+        "Fire",
+        "Fire",
+        "Fire",
+        "Colorless"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Water"
+    },
+    "retreat_cost": 3,
+    "ability": null
+  },
+  "42": {
+    "name": "Ponyta",
+    "rarity": "1_diamond",
+    "packs": [
+      "A",
+      "B",
+      "C"
+    ],
+    "staging": "Basic",
+    "type": "Fire",
+    "hp": 60,
+    "move": {
+      "name": "Flare",
+      "damage": 20,
+      "special_condition": null,
+      "energy_requisite": [
+        "Fire"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Water"
+    },
+    "retreat_cost": 1,
+    "ability": null
+  },
+  "43": {
+    "name": "Rapidash",
+    "rarity": "2_diamond",
+    "packs": [
+      "A",
+      "B",
+      "C"
+    ],
+    "staging": "Stage 1",
+    "type": "Fire",
+    "hp": 100,
+    "move": {
+      "name": "Fire Mane",
+      "damage": 40,
+      "special_condition": null,
+      "energy_requisite": [
+        "Fire",
+        "Colorless"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Water"
+    },
+    "retreat_cost": 1,
+    "ability": null
+  },
+  "44": {
+    "name": "Magmar",
+    "rarity": "1_diamond",
+    "packs": [
+      "A"
+    ],
+    "staging": "Basic",
+    "type": "Fire",
+    "hp": 80,
+    "move": {
+      "name": "Magma Punch",
+      "damage": 50,
+      "special_condition": null,
+      "energy_requisite": [
+        "Fire",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Water"
+    },
+    "retreat_cost": 2,
+    "ability": null
+  },
+  "45": {
+    "name": "Flareon",
+    "rarity": "3_diamond",
+    "packs": [
+      "A"
+    ],
+    "staging": "Stage 1",
+    "type": "Fire",
+    "hp": 120,
+    "move": {
+      "name": "Flamethrower",
+      "damage": 90,
+      "special_condition": "Discard 1 Fire Energy from this Pok\u00e9mon.",
+      "energy_requisite": [
+        "Fire",
+        "Fire",
+        "Colorless"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Water"
+    },
+    "retreat_cost": 2,
+    "ability": null
+  },
+  "46": {
+    "name": "Moltres",
+    "rarity": "3_diamond",
+    "packs": [
+      "A"
+    ],
+    "staging": "Basic",
+    "type": "Fire",
+    "hp": 100,
+    "move": {
+      "name": "Sky Attack",
+      "damage": 130,
+      "special_condition": "Flip a coin. If tails, this attack does nothing.",
+      "energy_requisite": [
+        "Fire",
+        "Fire",
+        "Colorless"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Water"
+    },
+    "retreat_cost": 3,
+    "ability": null
+  },
+  "47": {
+    "name": "Moltres EX",
+    "rarity": "4_diamond",
+    "packs": [
+      "A"
+    ],
+    "staging": "Basic",
+    "type": "Fire",
+    "hp": 140,
+    "move": {
+      "name": "Inferno Dance",
+      "damage": 70,
+      "special_condition": "You may attach 2 Fire Energy cards from your discard pile to 1 of your Pok\u00e9mon.",
+      "energy_requisite": [
+        "Fire",
+        "Fire",
+        "Colorless"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Water"
+    },
+    "retreat_cost": 3,
+    "ability": null
+  },
+  "48": {
+    "name": "Heatmor",
+    "rarity": "1_diamond",
+    "packs": [
+      "A",
+      "B",
+      "C"
+    ],
+    "staging": "Basic",
+    "type": "Fire",
+    "hp": 80,
+    "move": {
+      "name": "Combustion",
+      "damage": 30,
+      "special_condition": null,
+      "energy_requisite": [
+        "Fire",
+        "Colorless"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Water"
+    },
+    "retreat_cost": 1,
+    "ability": null
+  },
+  "49": {
+    "name": "Salandit",
+    "rarity": "1_diamond",
+    "packs": [
+      "C"
+    ],
+    "staging": "Basic",
+    "type": "Fire",
+    "hp": 60,
+    "move": {
+      "name": "Scratch",
+      "damage": null,
+      "special_condition": null,
+      "energy_requisite": [
+        "Colorless"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Water"
+    },
+    "retreat_cost": 1,
+    "ability": null
+  },
+  "50": {
+    "name": "Salazzle",
+    "rarity": "2_diamond",
+    "packs": [
+      "C"
+    ],
+    "staging": "Stage 1",
+    "type": "Fire",
+    "hp": 90,
+    "move": {
+      "name": "Fire Claws",
+      "damage": 50,
+      "special_condition": null,
+      "energy_requisite": [
+        "Fire",
+        "Colorless"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Water"
+    },
+    "retreat_cost": 1,
+    "ability": null
+  },
+  "51": {
+    "name": "Sizzlipede",
+    "rarity": "1_diamond",
+    "packs": [
+      "A",
+      "B",
+      "C"
+    ],
+    "staging": "Basic",
+    "type": "Fire",
+    "hp": 60,
+    "move": {
+      "name": "Gnaw",
+      "damage": null,
+      "special_condition": null,
+      "energy_requisite": [
+        "Colorless"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Water"
+    },
+    "retreat_cost": 1,
+    "ability": null
+  },
+  "52": {
+    "name": "Centiskorch",
+    "rarity": "3_diamond",
+    "packs": [
+      "A",
+      "B",
+      "C"
+    ],
+    "staging": "Stage 1",
+    "type": "Fire",
+    "hp": 130,
+    "move": {
+      "name": "Fire Blast",
+      "damage": 130,
+      "special_condition": "Discard 2 Fire Energy from this Pok\u00e9mon.",
+      "energy_requisite": [
+        "Fire",
+        "Fire",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Water"
+    },
+    "retreat_cost": 3,
+    "ability": null
+  },
+  "53": {
+    "name": "Squirtle",
+    "rarity": "1_diamond",
+    "packs": [
+      "B"
+    ],
+    "staging": "Basic",
+    "type": "Water",
+    "hp": 60,
+    "move": {
+      "name": "Water Gun",
+      "damage": 20,
+      "special_condition": null,
+      "energy_requisite": [
+        "Water"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Electric"
+    },
+    "retreat_cost": 1,
+    "ability": null
+  },
+  "54": {
+    "name": "Wartortle",
+    "rarity": "2_diamond",
+    "packs": [
+      "B"
+    ],
+    "staging": "Stage 1",
+    "type": "Water",
+    "hp": 80,
+    "move": {
+      "name": "Wave Splash",
+      "damage": 40,
+      "special_condition": null,
+      "energy_requisite": [
+        "Water",
+        "Colorless"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Electric"
+    },
+    "retreat_cost": 2,
+    "ability": null
+  },
+  "55": {
+    "name": "Blastoise",
+    "rarity": "3_diamond",
+    "packs": [
+      "B"
+    ],
+    "staging": "Stage 2",
+    "type": "Water",
+    "hp": 150,
+    "move": {
+      "name": "Hydro Pump",
+      "damage": 80,
+      "special_condition": "This attack does 30 more damage for each Water Energy attached to this Pok\u00e9mon.",
+      "energy_requisite": [
+        "Water",
+        "Water",
+        "Water",
+        "Colorless"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Electric"
+    },
+    "retreat_cost": 3,
+    "ability": null
+  },
+  "56": {
+    "name": "Blastoise EX",
+    "rarity": "4_diamond",
+    "packs": [
+      "B"
+    ],
+    "staging": "Stage 2",
+    "type": "Water",
+    "hp": 180,
+    "move": {
+      "name": "Hydro Bazooka",
+      "damage": 100,
+      "special_condition": "This attack does 20 damage to 2 of your opponent's Benched Pok\u00e9mon.",
+      "energy_requisite": [
+        "Water",
+        "Water",
+        "Water",
+        "Colorless"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Electric"
+    },
+    "retreat_cost": 3,
+    "ability": null
+  },
+  "57": {
+    "name": "Psyduck",
+    "rarity": "1_diamond",
+    "packs": [
+      "A",
+      "B",
+      "C"
+    ],
+    "staging": "Basic",
+    "type": "Water",
+    "hp": 60,
+    "move": {
+      "name": "Headache",
+      "damage": 10,
+      "special_condition": "Your opponent can't play any Supporter cards from their hand during their next turn.",
+      "energy_requisite": [
+        "Water"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Electric"
+    },
+    "retreat_cost": 1,
+    "ability": null
+  },
+  "58": {
+    "name": "Golduck",
+    "rarity": "2_diamond",
+    "packs": [
+      "A",
+      "B",
+      "C"
+    ],
+    "staging": "Stage 1",
+    "type": "Water",
+    "hp": 90,
+    "move": {
+      "name": "Aqua Edge",
+      "damage": 70,
+      "special_condition": null,
+      "energy_requisite": [
+        "Water",
+        "Water",
+        "Colorless"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Electric"
+    },
+    "retreat_cost": 1,
+    "ability": null
+  },
+  "59": {
+    "name": "Poliwag",
+    "rarity": "1_diamond",
+    "packs": [
+      "A"
+    ],
+    "staging": "Basic",
+    "type": "Water",
+    "hp": 60,
+    "move": {
+      "name": "Razor Fin",
+      "damage": 10,
+      "special_condition": null,
+      "energy_requisite": [
+        "Colorless"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Electric"
+    },
+    "retreat_cost": 1,
+    "ability": null
+  },
+  "60": {
+    "name": "Poliwhirl",
+    "rarity": "2_diamond",
+    "packs": [
+      "A"
+    ],
+    "staging": "Stage 1",
+    "type": "Water",
+    "hp": 90,
+    "move": {
+      "name": "Knuckle Punch",
+      "damage": 40,
+      "special_condition": null,
+      "energy_requisite": [
+        "Water",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Electric"
+    },
+    "retreat_cost": 2,
+    "ability": null
+  },
+  "61": {
+    "name": "Poliwrath",
+    "rarity": "3_diamond",
+    "packs": [
+      "A"
+    ],
+    "staging": "Stage 2",
+    "type": "Water",
+    "hp": 150,
+    "move": {
+      "name": "Mega Punch",
+      "damage": 80,
+      "special_condition": null,
+      "energy_requisite": [
+        "Water",
+        "Water",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Electric"
+    },
+    "retreat_cost": 3,
+    "ability": {
+      "name": "Counterattack",
+      "text": "If this Pok\u00e9mon is in the Active Spot and is damaged by an attack, put 3 damage counters on the Attacking Pok\u00e9mon."
+    }
+  },
+  "62": {
+    "name": "Tentacool",
+    "rarity": "1_diamond",
+    "packs": [
+      "C"
+    ],
+    "staging": "Basic",
+    "type": "Water",
+    "hp": 60,
+    "move": {
+      "name": "Gentle Slap",
+      "damage": 20,
+      "special_condition": null,
+      "energy_requisite": [
+        "Colorless"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Electric"
+    },
+    "retreat_cost": 1,
+    "ability": null
+  },
+  "63": {
+    "name": "Tentacruel",
+    "rarity": "2_diamond",
+    "packs": [
+      "C"
+    ],
+    "staging": "Stage 1",
+    "type": "Water",
+    "hp": 110,
+    "move": {
+      "name": "Poison Tentacles",
+      "damage": 50,
+      "special_condition": "Your opponent's Active Pok\u00e9mon is now Poisoned.",
+      "energy_requisite": [
+        "Water",
+        "Colorless"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Electric"
+    },
+    "retreat_cost": 2,
+    "ability": null
+  },
+  "64": {
+    "name": "Seel",
+    "rarity": "1_diamond",
+    "packs": [
+      "B"
+    ],
+    "staging": "Basic",
+    "type": "Water",
+    "hp": 80,
+    "move": {
+      "name": "Headbutt",
+      "damage": 30,
+      "special_condition": null,
+      "energy_requisite": [
+        "Water",
+        "Colorless"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Electric"
+    },
+    "retreat_cost": 2,
+    "ability": null
+  },
+  "65": {
+    "name": "Dewgong",
+    "rarity": "3_diamond",
+    "packs": [
+      "B"
+    ],
+    "staging": "Stage 1",
+    "type": "Water",
+    "hp": 120,
+    "move": {
+      "name": "Surf",
+      "damage": 90,
+      "special_condition": null,
+      "energy_requisite": [
+        "Water",
+        "Water",
+        "Colorless"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Electric"
+    },
+    "retreat_cost": 3,
+    "ability": null
+  },
+  "66": {
+    "name": "Shellder",
+    "rarity": "1_diamond",
+    "packs": [
+      "C"
+    ],
+    "staging": "Basic",
+    "type": "Water",
+    "hp": 60,
+    "move": {
+      "name": "Tongue Slap",
+      "damage": 20,
+      "special_condition": null,
+      "energy_requisite": [
+        "Colorless"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Electric"
+    },
+    "retreat_cost": 1,
+    "ability": null
+  },
+  "67": {
+    "name": "Cloyster",
+    "rarity": "2_diamond",
+    "packs": [
+      "C"
+    ],
+    "staging": "Stage 1",
+    "type": "Water",
+    "hp": 120,
+    "move": {
+      "name": "Surf",
+      "damage": 100,
+      "special_condition": null,
+      "energy_requisite": [
+        "Water",
+        "Water",
+        "Colorless"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Electric"
+    },
+    "retreat_cost": 2,
+    "ability": {
+      "name": "Shell Armor",
+      "text": "This Pok\u00e9mon takes 10 less damage from attacks."
+    }
+  },
+  "68": {
+    "name": "Krabby",
+    "rarity": "1_diamond",
+    "packs": [
+      "C"
+    ],
+    "staging": "Basic",
+    "type": "Water",
+    "hp": 70,
+    "move": {
+      "name": "Vise Grip",
+      "damage": 20,
+      "special_condition": null,
+      "energy_requisite": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Electric"
+    },
+    "retreat_cost": 1,
+    "ability": null
+  },
+  "69": {
+    "name": "Kingler",
+    "rarity": "2_diamond",
+    "packs": [
+      "C"
+    ],
+    "staging": "Stage 1",
+    "type": "Water",
+    "hp": 120,
+    "move": {
+      "name": "KO Crab",
+      "damage": "80+",
+      "special_condition": "Flip a coin. If heads, this attack does 30 more damage.",
+      "energy_requisite": [
+        "Water",
+        "Water",
+        "Colorless"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Electric"
+    },
+    "retreat_cost": 3,
+    "ability": null
+  },
+  "70": {
+    "name": "Horsea",
+    "rarity": "1_diamond",
+    "packs": [
+      "B"
+    ],
+    "staging": "Basic",
+    "type": "Water",
+    "hp": 60,
+    "move": {
+      "name": "Water Gun",
+      "damage": 20,
+      "special_condition": null,
+      "energy_requisite": [
+        "Water"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Electric"
+    },
+    "retreat_cost": 1,
+    "ability": null
+  },
+  "71": {
+    "name": "Seadra",
+    "rarity": "2_diamond",
+    "packs": [
+      "B"
+    ],
+    "staging": "Stage 1",
+    "type": "Water",
+    "hp": 90,
+    "move": {
+      "name": "Water Arrow",
+      "damage": 50,
+      "special_condition": "This attack does 50 damage to 1 of your opponent's Pok\u00e9mon.",
+      "energy_requisite": [
+        "Water",
+        "Water"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Electric"
+    },
+    "retreat_cost": 1,
+    "ability": null
+  },
+  "72": {
+    "name": "Goldeen",
+    "rarity": "1_diamond",
+    "packs": [
+      "B"
+    ],
+    "staging": "Basic",
+    "type": "Water",
+    "hp": 60,
+    "move": {
+      "name": "Flop",
+      "damage": 10,
+      "special_condition": null,
+      "energy_requisite": [
+        "Colorless"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Electric"
+    },
+    "retreat_cost": 1,
+    "ability": null
+  },
+  "73": {
+    "name": "Seaking",
+    "rarity": "2_diamond",
+    "packs": [
+      "B"
+    ],
+    "staging": "Stage 1",
+    "type": "Water",
+    "hp": 100,
+    "move": {
+      "name": "Horn Hazard",
+      "damage": 80,
+      "special_condition": "Flip a coin. If tails, this attack does nothing.",
+      "energy_requisite": [
+        "Water",
+        "Water",
+        "Colorless"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Electric"
+    },
+    "retreat_cost": 2,
+    "ability": null
+  },
+  "74": {
+    "name": "Staryu",
+    "rarity": "1_diamond",
+    "packs": [
+      "A"
+    ],
+    "staging": "Basic",
+    "type": "Water",
+    "hp": 50,
+    "move": {
+      "name": "Smack",
+      "damage": 20,
+      "special_condition": null,
+      "energy_requisite": [
+        "Colorless"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Electric"
+    },
+    "retreat_cost": 1,
+    "ability": null
+  },
+  "75": {
+    "name": "Starmie",
+    "rarity": "2_diamond",
+    "packs": [
+      "A"
+    ],
+    "staging": "Stage 1",
+    "type": "Water",
+    "hp": 90,
+    "move": {
+      "name": "Wave Splash",
+      "damage": 40,
+      "special_condition": null,
+      "energy_requisite": [
+        "Water",
+        "Colorless"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Electric"
+    },
+    "retreat_cost": 1,
+    "ability": null
+  },
+  "76": {
+    "name": "Starmie EX",
+    "rarity": "4_diamond",
+    "packs": [
+      "A"
+    ],
+    "staging": "Stage 1",
+    "type": "Water",
+    "hp": 130,
+    "move": {
+      "name": "Hydro Splash",
+      "damage": 90,
+      "special_condition": null,
+      "energy_requisite": [
+        "Water",
+        "Water",
+        "Colorless"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Electric"
+    },
+    "retreat_cost": 2,
+    "ability": null
+  },
+  "77": {
+    "name": "Magikarp",
+    "rarity": "1_diamond",
+    "packs": [
+      "B"
+    ],
+    "staging": "Basic",
+    "type": "Water",
+    "hp": 30,
+    "move": {
+      "name": "Splash",
+      "damage": 10,
+      "special_condition": null,
+      "energy_requisite": [
+        "Colorless"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Electric"
+    },
+    "retreat_cost": 1,
+    "ability": null
+  },
+  "78": {
+    "name": "Gyarados",
+    "rarity": "3_diamond",
+    "packs": [
+      "B"
+    ],
+    "staging": "Stage 1",
+    "type": "Water",
+    "hp": 150,
+    "move": {
+      "name": "Hyper Beam",
+      "damage": 100,
+      "special_condition": "Discard an Energy from your opponent's Active Pok\u00e9mon.",
+      "energy_requisite": [
+        "Water",
+        "Water",
+        "Water",
+        "Colorless"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Electric"
+    },
+    "retreat_cost": 3,
+    "ability": null
+  },
+  "79": {
+    "name": "Lapras",
+    "rarity": "2_diamond",
+    "packs": [
+      "A"
+    ],
+    "staging": "Basic",
+    "type": "Water",
+    "hp": 100,
+    "move": {
+      "name": "Hydro Pump",
+      "damage": "20+",
+      "special_condition": "This attack does 20 more damage for each Water Energy attached to this Pok\u00e9mon.",
+      "energy_requisite": [
+        "Water",
+        "Water",
+        "Colorless"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Electric"
+    },
+    "retreat_cost": 2,
+    "ability": null
+  },
+  "80": {
+    "name": "Vaporeon",
+    "rarity": "3_diamond",
+    "packs": [
+      "C"
+    ],
+    "staging": "Stage 1",
+    "type": "Water",
+    "hp": 130,
+    "move": {
+      "name": "Bubble Drain",
+      "damage": 60,
+      "special_condition": "Heal 30 damage from this Pok\u00e9mon.",
+      "energy_requisite": [
+        "Water",
+        "Water",
+        "Colorless"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Electric"
+    },
+    "retreat_cost": 2,
+    "ability": null
+  },
+  "81": {
+    "name": "Omanyte",
+    "rarity": "1_diamond",
+    "packs": [
+      "B"
+    ],
+    "staging": "Stage 1",
+    "type": "Water",
+    "hp": 90,
+    "move": {
+      "name": "Water Gun",
+      "damage": 40,
+      "special_condition": null,
+      "energy_requisite": [
+        "Water",
+        "Colorless"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Electric"
+    },
+    "retreat_cost": 1,
+    "ability": null
+  },
+  "82": {
+    "name": "Omastar",
+    "rarity": "3_diamond",
+    "packs": [
+      "B"
+    ],
+    "staging": "Stage 2",
+    "type": "Water",
+    "hp": 140,
+    "move": {
+      "name": "Ancient Whirlpool",
+      "damage": 70,
+      "special_condition": "During your opponent's next turn, the Defending Pok\u00e9mon can't retreat.",
+      "energy_requisite": [
+        "Water",
+        "Water",
+        "Colorless"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Electric"
+    },
+    "retreat_cost": 2,
+    "ability": null
+  },
+  "83": {
+    "name": "Articuno",
+    "rarity": "3_diamond",
+    "packs": [
+      "C"
+    ],
+    "staging": "Basic",
+    "type": "Water",
+    "hp": 100,
+    "move": {
+      "name": "Ice Beam",
+      "damage": 60,
+      "special_condition": "Flip a coin. If heads, your opponent's Active Pok\u00e9mon is now Paralyzed.",
+      "energy_requisite": [
+        "Water",
+        "Water",
+        "Colorless"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Electric"
+    },
+    "retreat_cost": 2,
+    "ability": null
+  },
+  "84": {
+    "name": "Articuno EX",
+    "rarity": "4_diamond",
+    "packs": [
+      "C"
+    ],
+    "staging": "Basic",
+    "type": "Water",
+    "hp": 140,
+    "move": {
+      "name": "Blizzard",
+      "damage": 80,
+      "special_condition": "This attack does 10 damage to each of your opponent's Benched Pok\u00e9mon.",
+      "energy_requisite": [
+        "Water",
+        "Water",
+        "Colorless"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Electric"
+    },
+    "retreat_cost": 3,
+    "ability": null
+  },
+  "85": {
+    "name": "Ducklett",
+    "rarity": "1_diamond",
+    "packs": [
+      "A"
+    ],
+    "staging": "Basic",
+    "type": "Water",
+    "hp": 50,
+    "move": {
+      "name": "Flap",
+      "damage": 30,
+      "special_condition": null,
+      "energy_requisite": [
+        "Colorless"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Electric"
+    },
+    "retreat_cost": 1,
+    "ability": null
+  },
+  "86": {
+    "name": "Swanna",
+    "rarity": "2_diamond",
+    "packs": [
+      "A"
+    ],
+    "staging": "Stage 1",
+    "type": "Water",
+    "hp": 90,
+    "move": {
+      "name": "Wing Attack",
+      "damage": 70,
+      "special_condition": null,
+      "energy_requisite": [
+        "Water",
+        "Colorless"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Electric"
+    },
+    "retreat_cost": 1,
+    "ability": null
+  },
+  "87": {
+    "name": "Froakie",
+    "rarity": "1_diamond",
+    "packs": [
+      "A"
+    ],
+    "staging": "Basic",
+    "type": "Water",
+    "hp": 60,
+    "move": {
+      "name": "Flop",
+      "damage": 10,
+      "special_condition": null,
+      "energy_requisite": [
+        "Colorless"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Electric"
+    },
+    "retreat_cost": 1,
+    "ability": null
+  },
+  "88": {
+    "name": "Frogadier",
+    "rarity": "2_diamond",
+    "packs": [
+      "A"
+    ],
+    "staging": "Stage 1",
+    "type": "Water",
+    "hp": 80,
+    "move": {
+      "name": "Water Drip",
+      "damage": 30,
+      "special_condition": null,
+      "energy_requisite": [
+        "Water",
+        "Colorless"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Electric"
+    },
+    "retreat_cost": 1,
+    "ability": null
+  },
+  "89": {
+    "name": "Greninja",
+    "rarity": "3_diamond",
+    "packs": [
+      "A"
+    ],
+    "staging": "Stage 2",
+    "type": "Water",
+    "hp": 120,
+    "move": {
+      "name": "Mist Slash",
+      "damage": 100,
+      "special_condition": "This attack's damage isn't affected by Weakness, Resistance, or any other effects on your opponent's Active Pok\u00e9mon.",
+      "energy_requisite": [
+        "Water",
+        "Water",
+        "Colorless"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Electric"
+    },
+    "retreat_cost": 1,
+    "ability": {
+      "name": "Water Shuriken",
+      "text": "Once during your turn, you may discard a Water Energy from your hand. If you do, put 20 damage on 1 of your opponent's Pok\u00e9mon."
+    }
+  },
+  "90": {
+    "name": "Pyukumuku",
+    "rarity": "1_diamond",
+    "packs": [
+      "A"
+    ],
+    "staging": "Basic",
+    "type": "Water",
+    "hp": 70,
+    "move": {
+      "name": "Rain Splash",
+      "damage": 30,
+      "special_condition": null,
+      "energy_requisite": [
+        "Water",
+        "Colorless"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Electric"
+    },
+    "retreat_cost": 1,
+    "ability": null
+  },
+  "91": {
+    "name": "Bruxish",
+    "rarity": "2_diamond",
+    "packs": [
+      "A",
+      "B",
+      "C"
+    ],
+    "staging": "Basic",
+    "type": "Water",
+    "hp": 90,
+    "move": {
+      "name": "Second Strike",
+      "damage": "10+",
+      "special_condition": "If your opponent's Active Pok\u00e9mon has damage on it, this attack does 50 more damage.",
+      "energy_requisite": [
+        "Water",
+        "Colorless"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Electric"
+    },
+    "retreat_cost": 1,
+    "ability": null
+  },
+  "92": {
+    "name": "Snom",
+    "rarity": "1_diamond",
+    "packs": [
+      "A",
+      "B",
+      "C"
+    ],
+    "staging": "Basic",
+    "type": "Water",
+    "hp": 50,
+    "move": {
+      "name": "Ram",
+      "damage": 10,
+      "special_condition": null,
+      "energy_requisite": [
+        "Colorless"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Electric"
+    },
+    "retreat_cost": 1,
+    "ability": null
+  },
+  "93": {
+    "name": "Frosmoth",
+    "rarity": "3_diamond",
+    "packs": [
+      "A",
+      "B",
+      "C"
+    ],
+    "staging": "Stage 1",
+    "type": "Water",
+    "hp": 90,
+    "move": {
+      "name": "Powder Snow",
+      "damage": 40,
+      "special_condition": "Your opponent's Active Pok\u00e9mon is now Asleep.",
+      "energy_requisite": [
+        "Water",
+        "Colorless"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Electric"
+    },
+    "retreat_cost": 1,
+    "ability": null
+  },
+  "94": {
+    "name": "Pikachu",
+    "rarity": "1_diamond",
+    "packs": [
+      "B"
+    ],
+    "staging": "Basic",
+    "type": "Lightning",
+    "hp": 60,
+    "move": {
+      "name": "Gnaw",
+      "damage": 20,
+      "special_condition": null,
+      "energy_requisite": [
+        "Colorless"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Fighting"
+    },
+    "retreat_cost": 1,
+    "ability": null
+  },
+  "95": {
+    "name": "Raichu",
+    "rarity": "3_diamond",
+    "packs": [
+      "B"
+    ],
+    "staging": "Stage 1",
+    "type": "Lightning",
+    "hp": 100,
+    "move": {
+      "name": "Thunderbolt",
+      "damage": 140,
+      "special_condition": "Discard all Energy from this Pok\u00e9mon.",
+      "energy_requisite": [
+        "Lightning",
+        "Lightning",
+        "Colorless"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Fighting"
+    },
+    "retreat_cost": 1,
+    "ability": null
+  },
+  "96": {
+    "name": "Pikachu EX",
+    "rarity": "4_diamond",
+    "packs": [
+      "B"
+    ],
+    "staging": "Basic",
+    "type": "Lightning",
+    "hp": 120,
+    "move": {
+      "name": "Circle Circuit",
+      "damage": 30,
+      "special_condition": "This attack does 30 damage for each of your Benched Pok\u00e9mon.",
+      "energy_requisite": [
+        "Lightning",
+        "Colorless"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Fighting"
+    },
+    "retreat_cost": 1,
+    "ability": null
+  },
+  "97": {
+    "name": "Magnemite",
+    "rarity": "1_diamond",
+    "packs": [
+      "B"
+    ],
+    "staging": "Basic",
+    "type": "Lightning",
+    "hp": 60,
+    "move": {
+      "name": "Lightning Ball",
+      "damage": 20,
+      "special_condition": null,
+      "energy_requisite": [
+        "Lightning"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Fighting"
+    },
+    "retreat_cost": 1,
+    "ability": null
+  },
+  "98": {
+    "name": "Magneton",
+    "rarity": "2_diamond",
+    "packs": [
+      "B"
+    ],
+    "staging": "Stage 1",
+    "type": "Lightning",
+    "hp": 80,
+    "move": {
+      "name": "Spinning Attack",
+      "damage": 60,
+      "special_condition": null,
+      "energy_requisite": [
+        "Lightning",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Fighting"
+    },
+    "retreat_cost": 2,
+    "ability": {
+      "name": "Volt Charge",
+      "text": "Once during your turn, you may move 1 Energy from your Energy Zone and attach it to this Pok\u00e9mon."
+    }
+  },
+  "99": {
+    "name": "Voltorb",
+    "rarity": "1_diamond",
+    "packs": [
+      "B"
+    ],
+    "staging": "Basic",
+    "type": "Lightning",
+    "hp": 60,
+    "move": {
+      "name": "Tackle",
+      "damage": 20,
+      "special_condition": null,
+      "energy_requisite": [
+        "Colorless"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Fighting"
+    },
+    "retreat_cost": 1,
+    "ability": null
+  },
+  "100": {
+    "name": "Electrode",
+    "rarity": "2_diamond",
+    "packs": [
+      "B"
+    ],
+    "staging": "Stage 1",
+    "type": "Lightning",
+    "hp": 80,
+    "move": {
+      "name": "Electro Ball",
+      "damage": 70,
+      "special_condition": null,
+      "energy_requisite": [
+        "Lightning",
+        "Colorless"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Fighting"
+    },
+    "retreat_cost": 1,
+    "ability": null
+  },
+  "101": {
+    "name": "Electabuzz",
+    "rarity": "1_diamond",
+    "packs": [
+      "B"
+    ],
+    "staging": "Basic",
+    "type": "Lightning",
+    "hp": 70,
+    "move": {
+      "name": "Thunder Punch",
+      "damage": "40+",
+      "special_condition": "Flip a coin. If heads, this attack does 40 more damage. If tails, this Pok\u00e9mon does 20 damage to itself.",
+      "energy_requisite": [
+        "Lightning",
+        "Colorless"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Fighting"
+    },
+    "retreat_cost": 2,
+    "ability": null
+  },
+  "102": {
+    "name": "Jolteon",
+    "rarity": "3_diamond",
+    "packs": [
+      "B"
+    ],
+    "staging": "Stage 1",
+    "type": "Lightning",
+    "hp": 90,
+    "move": {
+      "name": "Pin Missile",
+      "damage": "40\u00d7",
+      "special_condition": "Flip 4 coins. This attack does 40 damage for each heads.",
+      "energy_requisite": [
+        "Lightning",
+        "Colorless"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Fighting"
+    },
+    "retreat_cost": 0,
+    "ability": null
+  },
+  "103": {
+    "name": "Zapdos",
+    "rarity": "3_diamond",
+    "packs": [
+      "B"
+    ],
+    "staging": "Basic",
+    "type": "Lightning",
+    "hp": 120,
+    "move": {
+      "name": "Raging Thunder",
+      "damage": 100,
+      "special_condition": "This attack also does 40 damage to 1 of your Benched Pok\u00e9mon.",
+      "energy_requisite": [
+        "Lightning",
+        "Lightning",
+        "Colorless"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Fighting"
+    },
+    "retreat_cost": 2,
+    "ability": null
+  },
+  "104": {
+    "name": "Zapdos EX",
+    "rarity": "4_diamond",
+    "packs": [
+      "B"
+    ],
+    "staging": "Basic",
+    "type": "Lightning",
+    "hp": 130,
+    "move": {
+      "name": "Thundering Hurricane",
+      "damage": "50\u00d7",
+      "special_condition": "Flip 4 coins. This attack does 50 damage for each heads.",
+      "energy_requisite": [
+        "Lightning",
+        "Lightning",
+        "Colorless"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Fighting"
+    },
+    "retreat_cost": 2,
+    "ability": null
+  },
+  "105": {
+    "name": "Blitzle",
+    "rarity": "1_diamond",
+    "packs": [
+      "A",
+      "B",
+      "C"
+    ],
+    "staging": "Basic",
+    "type": "Lightning",
+    "hp": 60,
+    "move": {
+      "name": "Zap Kick",
+      "damage": 20,
+      "special_condition": null,
+      "energy_requisite": [
+        "Lightning"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Fighting"
+    },
+    "retreat_cost": 1,
+    "ability": null
+  },
+  "106": {
+    "name": "Zebstrika",
+    "rarity": "3_diamond",
+    "packs": [
+      "A",
+      "B",
+      "C"
+    ],
+    "staging": "Stage 1",
+    "type": "Lightning",
+    "hp": 90,
+    "move": {
+      "name": "Thunder Spear",
+      "damage": 30,
+      "special_condition": "This attack does 30 damage to 1 of your opponent's Pok\u00e9mon.",
+      "energy_requisite": [
+        "Lightning",
+        "Colorless"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Fighting"
+    },
+    "retreat_cost": 1,
+    "ability": null
+  },
+  "107": {
+    "name": "Tynamo",
+    "rarity": "1_diamond",
+    "packs": [
+      "C"
+    ],
+    "staging": "Basic",
+    "type": "Lightning",
+    "hp": 30,
+    "move": {
+      "name": "Tiny Charge",
+      "damage": 10,
+      "special_condition": null,
+      "energy_requisite": [
+        "Colorless"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Fighting"
+    },
+    "retreat_cost": 1,
+    "ability": null
+  },
+  "108": {
+    "name": "Eelektrik",
+    "rarity": "2_diamond",
+    "packs": [
+      "C"
+    ],
+    "staging": "Stage 1",
+    "type": "Lightning",
+    "hp": 80,
+    "move": {
+      "name": "Head Bolt",
+      "damage": 40,
+      "special_condition": null,
+      "energy_requisite": [
+        "Lightning",
+        "Colorless"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Fighting"
+    },
+    "retreat_cost": 1,
+    "ability": null
+  },
+  "109": {
+    "name": "Eelektross",
+    "rarity": "3_diamond",
+    "packs": [
+      "C"
+    ],
+    "staging": "Stage 2",
+    "type": "Lightning",
+    "hp": 140,
+    "move": {
+      "name": "Thunder Fang",
+      "damage": 80,
+      "special_condition": "Flip a coin. If heads, your opponent's Active Pok\u00e9mon is now Paralyzed.",
+      "energy_requisite": [
+        "Lightning",
+        "Lightning",
+        "Colorless"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Fighting"
+    },
+    "retreat_cost": 2,
+    "ability": null
+  },
+  "110": {
+    "name": "Helioptile",
+    "rarity": "1_diamond",
+    "packs": [
+      "A",
+      "B",
+      "C"
+    ],
+    "staging": "Basic",
+    "type": "Lightning",
+    "hp": 60,
+    "move": {
+      "name": "Tail Whap",
+      "damage": 20,
+      "special_condition": null,
+      "energy_requisite": [
+        "Colorless"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Fighting"
+    },
+    "retreat_cost": 1,
+    "ability": null
+  },
+  "111": {
+    "name": "Heliolisk",
+    "rarity": "2_diamond",
+    "packs": [
+      "A",
+      "B",
+      "C"
+    ],
+    "staging": "Stage 1",
+    "type": "Lightning",
+    "hp": 90,
+    "move": {
+      "name": "Quick Attack",
+      "damage": "40+",
+      "special_condition": "Flip a coin. If heads, this attack does 40 more damage.",
+      "energy_requisite": [
+        "Lightning",
+        "Colorless"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Fighting"
+    },
+    "retreat_cost": 1,
+    "ability": null
+  },
+  "112": {
+    "name": "Pincurchin",
+    "rarity": "1_diamond",
+    "packs": [
+      "A",
+      "B",
+      "C"
+    ],
+    "staging": "Basic",
+    "type": "Lightning",
+    "hp": 70,
+    "move": {
+      "name": "Thunder Shock",
+      "damage": 30,
+      "special_condition": "Flip a coin. If heads, your opponent's Active Pok\u00e9mon is now Paralyzed.",
+      "energy_requisite": [
+        "Lightning",
+        "Colorless"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Fighting"
+    },
+    "retreat_cost": 1,
+    "ability": null
+  },
+  "113": {
+    "name": "Clefairy",
+    "rarity": "1_diamond",
+    "packs": [
+      "B"
+    ],
+    "staging": "Basic",
+    "type": "Psychic",
+    "hp": 60,
+    "move": {
+      "name": "Slap",
+      "damage": 20,
+      "special_condition": null,
+      "energy_requisite": [
+        "Colorless"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Psychic"
+    },
+    "retreat_cost": 1,
+    "ability": null
+  },
+  "114": {
+    "name": "Clefable",
+    "rarity": "3_diamond",
+    "packs": [
+      "B"
+    ],
+    "staging": "Stage 1",
+    "type": "Psychic",
+    "hp": 100,
+    "move": {
+      "name": "Magical Shot",
+      "damage": 40,
+      "special_condition": null,
+      "energy_requisite": [
+        "Psychic",
+        "Colorless"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Psychic"
+    },
+    "retreat_cost": 1,
+    "ability": null
+  },
+  "115": {
+    "name": "Abra",
+    "rarity": "1_diamond",
+    "packs": [
+      "A"
+    ],
+    "staging": "Basic",
+    "type": "Psychic",
+    "hp": 60,
+    "move": {
+      "name": "Teleport",
+      "damage": null,
+      "special_condition": "Switch this Pok\u00e9mon with 1 of your Benched Pok\u00e9mon.",
+      "energy_requisite": [
+        "Colorless"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Psychic"
+    },
+    "retreat_cost": 1,
+    "ability": null
+  },
+  "116": {
+    "name": "Kadabra",
+    "rarity": "2_diamond",
+    "packs": [
+      "A"
+    ],
+    "staging": "Stage 1",
+    "type": "Psychic",
+    "hp": 80,
+    "move": {
+      "name": "Super Psy Bolt",
+      "damage": 60,
+      "special_condition": null,
+      "energy_requisite": [
+        "Psychic",
+        "Colorless"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Psychic"
+    },
+    "retreat_cost": 1,
+    "ability": null
+  },
+  "117": {
+    "name": "Alakazam",
+    "rarity": "3_diamond",
+    "packs": [
+      "A"
+    ],
+    "staging": "Stage 2",
+    "type": "Psychic",
+    "hp": 130,
+    "move": {
+      "name": "Psychic",
+      "damage": "60+",
+      "special_condition": "This attack does 10 more damage for each Energy attached to your opponent's Active Pok\u00e9mon.",
+      "energy_requisite": [
+        "Psychic",
+        "Psychic",
+        "Colorless"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Psychic"
+    },
+    "retreat_cost": 2,
+    "ability": null
+  },
+  "118": {
+    "name": "Slowpoke",
+    "rarity": "1_diamond",
+    "packs": [
+      "A",
+      "B",
+      "C"
+    ],
+    "staging": "Basic",
+    "type": "Psychic",
+    "hp": 70,
+    "move": {
+      "name": "Tail Whap",
+      "damage": 30,
+      "special_condition": null,
+      "energy_requisite": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Psychic"
+    },
+    "retreat_cost": 2,
+    "ability": null
+  },
+  "119": {
+    "name": "Slowbro",
+    "rarity": "3_diamond",
+    "packs": [
+      "A",
+      "B",
+      "C"
+    ],
+    "staging": "Stage 1",
+    "type": "Psychic",
+    "hp": 130,
+    "move": {
+      "name": "Super Psy Bolt",
+      "damage": 60,
+      "special_condition": null,
+      "energy_requisite": [
+        "Psychic",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Psychic"
+    },
+    "retreat_cost": 3,
+    "ability": null
+  },
+  "120": {
+    "name": "Gastly",
+    "rarity": "1_diamond",
+    "packs": [
+      "C"
+    ],
+    "staging": "Basic",
+    "type": "Psychic",
+    "hp": 60,
+    "move": {
+      "name": "Suffocating Gas",
+      "damage": 20,
+      "special_condition": null,
+      "energy_requisite": [
+        "Colorless"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Psychic"
+    },
+    "retreat_cost": 1,
+    "ability": null
+  },
+  "121": {
+    "name": "Haunter",
+    "rarity": "2_diamond",
+    "packs": [
+      "C"
+    ],
+    "staging": "Stage 1",
+    "type": "Psychic",
+    "hp": 80,
+    "move": {
+      "name": "Will-O-Wisp",
+      "damage": 30,
+      "special_condition": null,
+      "energy_requisite": [
+        "Psychic",
+        "Colorless"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Psychic"
+    },
+    "retreat_cost": 1,
+    "ability": null
+  },
+  "122": {
+    "name": "Gengar",
+    "rarity": "3_diamond",
+    "packs": [
+      "C"
+    ],
+    "staging": "Stage 2",
+    "type": "Psychic",
+    "hp": 130,
+    "move": {
+      "name": "Botcher",
+      "damage": 50,
+      "special_condition": "Your opponent can't play any Supporter cards from their hand during their next turn.",
+      "energy_requisite": [
+        "Psychic",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Psychic"
+    },
+    "retreat_cost": 2,
+    "ability": null
+  },
+  "123": {
+    "name": "Gengar EX",
+    "rarity": "4_diamond",
+    "packs": [
+      "C"
+    ],
+    "staging": "Stage 2",
+    "type": "Psychic",
+    "hp": 170,
+    "move": {
+      "name": "Spooky Shot",
+      "damage": 100,
+      "special_condition": null,
+      "energy_requisite": [
+        "Psychic",
+        "Psychic",
+        "Colorless"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Psychic"
+    },
+    "retreat_cost": 3,
+    "ability": {
+      "name": "Shadow Spellbind",
+      "text": "As long as this Pok\u00e9mon is in the Active Spot, your opponent's Pok\u00e9mon can't retreat."
+    }
+  },
+  "124": {
+    "name": "Drowzee",
+    "rarity": "1_diamond",
+    "packs": [
+      "B"
+    ],
+    "staging": "Basic",
+    "type": "Psychic",
+    "hp": 70,
+    "move": {
+      "name": "Mumble",
+      "damage": 30,
+      "special_condition": null,
+      "energy_requisite": [
+        "Psychic",
+        "Colorless"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Psychic"
+    },
+    "retreat_cost": 1,
+    "ability": null
+  },
+  "125": {
+    "name": "Hypno",
+    "rarity": "3_diamond",
+    "packs": [
+      "B"
+    ],
+    "staging": "Stage 1",
+    "type": "Psychic",
+    "hp": 100,
+    "move": {
+      "name": "Psypunch",
+      "damage": 50,
+      "special_condition": null,
+      "energy_requisite": [
+        "Psychic",
+        "Colorless"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Psychic"
+    },
+    "retreat_cost": 1,
+    "ability": {
+      "name": "Sleep Pendulum",
+      "text": "Once during your turn, you may flip a coin. If heads, your opponent's Active Pok\u00e9mon is now Asleep."
+    }
+  },
+  "126": {
+    "name": "Mr. Mime",
+    "rarity": "2_diamond",
+    "packs": [
+      "B"
+    ],
+    "staging": "Basic",
+    "type": "Psychic",
+    "hp": 80,
+    "move": {
+      "name": "Barrier Attack",
+      "damage": 30,
+      "special_condition": "During your opponent's next turn, this Pok\u00e9mon takes 20 less damage from attacks.",
+      "energy_requisite": [
+        "Psychic",
+        "Colorless"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Psychic"
+    },
+    "retreat_cost": 1,
+    "ability": null
+  },
+  "127": {
+    "name": "Jynx",
+    "rarity": "2_diamond",
+    "packs": [
+      "B"
+    ],
+    "staging": "Basic",
+    "type": "Psychic",
+    "hp": 80,
+    "move": {
+      "name": "Psychic",
+      "damage": "30+",
+      "special_condition": "This attack does 10 more damage for each Energy attached to your opponent's Active Pok\u00e9mon.",
+      "energy_requisite": [
+        "Psychic",
+        "Colorless"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Psychic"
+    },
+    "retreat_cost": 2,
+    "ability": null
+  },
+  "128": {
+    "name": "Mewtwo",
+    "rarity": "3_diamond",
+    "packs": [
+      "C"
+    ],
+    "staging": "Basic",
+    "type": "Psychic",
+    "hp": 120,
+    "move": {
+      "name": "Power Blast",
+      "damage": 120,
+      "special_condition": "Discard 2 Energy from this Pok\u00e9mon.",
+      "energy_requisite": [
+        "Psychic",
+        "Psychic",
+        "Colorless"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Psychic"
+    },
+    "retreat_cost": 2,
+    "ability": null
+  },
+  "129": {
+    "name": "Mewtwo EX",
+    "rarity": "4_diamond",
+    "packs": [
+      "C"
+    ],
+    "staging": "Basic",
+    "type": "Psychic",
+    "hp": 150,
+    "move": {
+      "name": "Psychic Sphere",
+      "damage": 50,
+      "special_condition": null,
+      "energy_requisite": [
+        "Psychic",
+        "Colorless"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Psychic"
+    },
+    "retreat_cost": 2,
+    "ability": null
+  },
+  "130": {
+    "name": "Ralts",
+    "rarity": "1_diamond",
+    "packs": [
+      "C"
+    ],
+    "staging": "Basic",
+    "type": "Psychic",
+    "hp": 60,
+    "move": {
+      "name": "Ram",
+      "damage": 10,
+      "special_condition": null,
+      "energy_requisite": [
+        "Colorless"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Psychic"
+    },
+    "retreat_cost": 1,
+    "ability": null
+  },
+  "131": {
+    "name": "Kirlia",
+    "rarity": "2_diamond",
+    "packs": [
+      "C"
+    ],
+    "staging": "Stage 1",
+    "type": "Psychic",
+    "hp": 80,
+    "move": {
+      "name": "Smack",
+      "damage": 30,
+      "special_condition": null,
+      "energy_requisite": [
+        "Psychic",
+        "Colorless"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Psychic"
+    },
+    "retreat_cost": 1,
+    "ability": null
+  },
+  "132": {
+    "name": "Gardevoir",
+    "rarity": "3_diamond",
+    "packs": [
+      "C"
+    ],
+    "staging": "Stage 2",
+    "type": "Psychic",
+    "hp": 110,
+    "move": {
+      "name": "Psyshot",
+      "damage": 60,
+      "special_condition": null,
+      "energy_requisite": [
+        "Psychic",
+        "Psychic",
+        "Colorless"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Psychic"
+    },
+    "retreat_cost": 2,
+    "ability": {
+      "name": "Psy Shadow",
+      "text": "Once during your turn, you may take 2 Energy from your Energy Zone and attach it to 1 Pok\u00e9mon in the Active Spot."
+    }
+  },
+  "133": {
+    "name": "Woobat",
+    "rarity": "1_diamond",
+    "packs": [
+      "A",
+      "B",
+      "C"
+    ],
+    "staging": "Basic",
+    "type": "Psychic",
+    "hp": 60,
+    "move": {
+      "name": "Gnaw",
+      "damage": 10,
+      "special_condition": null,
+      "energy_requisite": [
+        "Colorless"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Psychic"
+    },
+    "retreat_cost": 1,
+    "ability": null
+  },
+  "134": {
+    "name": "Swoobat",
+    "rarity": "2_diamond",
+    "packs": [
+      "A",
+      "B",
+      "C"
+    ],
+    "staging": "Stage 1",
+    "type": "Psychic",
+    "hp": 90,
+    "move": {
+      "name": "Heart Stamp",
+      "damage": 60,
+      "special_condition": null,
+      "energy_requisite": [
+        "Psychic",
+        "Colorless"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Psychic"
+    },
+    "retreat_cost": 1,
+    "ability": null
+  },
+  "135": {
+    "name": "Golett",
+    "rarity": "1_diamond",
+    "packs": [
+      "A",
+      "B",
+      "C"
+    ],
+    "staging": "Basic",
+    "type": "Psychic",
+    "hp": 90,
+    "move": {
+      "name": "Mega Punch",
+      "damage": 50,
+      "special_condition": null,
+      "energy_requisite": [
+        "Psychic",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Psychic"
+    },
+    "retreat_cost": 2,
+    "ability": null
+  },
+  "136": {
+    "name": "Golurk",
+    "rarity": "3_diamond",
+    "packs": [
+      "A",
+      "B",
+      "C"
+    ],
+    "staging": "Stage 1",
+    "type": "Psychic",
+    "hp": 140,
+    "move": {
+      "name": "Double Lariat",
+      "damage": "100\u00d7",
+      "special_condition": "Flip 2 coins. This attack does 100 damage for each heads.",
+      "energy_requisite": [
+        "Psychic",
+        "Psychic",
+        "Colorless"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Psychic"
+    },
+    "retreat_cost": 3,
+    "ability": null
+  },
+  "137": {
+    "name": "Sandshrew",
+    "rarity": "1_diamond",
+    "packs": [
+      "A",
+      "B",
+      "C"
+    ],
+    "staging": "Basic",
+    "type": "Fighting",
+    "hp": 70,
+    "move": {
+      "name": "Scratch",
+      "damage": 10,
+      "special_condition": null,
+      "energy_requisite": [
+        "Colorless"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Grass"
+    },
+    "retreat_cost": 1,
+    "ability": null
+  },
+  "138": {
+    "name": "Sandslash",
+    "rarity": "2_diamond",
+    "packs": [
+      "A",
+      "B",
+      "C"
+    ],
+    "staging": "Stage 1",
+    "type": "Fighting",
+    "hp": 100,
+    "move": {
+      "name": "Slash",
+      "damage": 70,
+      "special_condition": null,
+      "energy_requisite": [
+        "Fighting",
+        "Colorless"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Grass"
+    },
+    "retreat_cost": 1,
+    "ability": null
+  },
+  "139": {
+    "name": "Diglett",
+    "rarity": "1_diamond",
+    "packs": [
+      "B"
+    ],
+    "staging": "Basic",
+    "type": "Fighting",
+    "hp": 50,
+    "move": {
+      "name": "Mud-Slap",
+      "damage": 40,
+      "special_condition": null,
+      "energy_requisite": [
+        "Fighting"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Grass"
+    },
+    "retreat_cost": 1,
+    "ability": null
+  },
+  "140": {
+    "name": "Dugtrio",
+    "rarity": "3_diamond",
+    "packs": [
+      "B"
+    ],
+    "staging": "Stage 1",
+    "type": "Fighting",
+    "hp": 70,
+    "move": {
+      "name": "Dig",
+      "damage": 40,
+      "special_condition": "Flip a coin. If heads, during your opponent's next turn, prevent all effects of attacks, including damage, done to this Pok\u00e9mon.",
+      "energy_requisite": [
+        "Fighting",
+        "Colorless"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Grass"
+    },
+    "retreat_cost": 1,
+    "ability": null
+  },
+  "141": {
+    "name": "Mankey",
+    "rarity": "1_diamond",
+    "packs": [
+      "A"
+    ],
+    "staging": "Basic",
+    "type": "Fighting",
+    "hp": 60,
+    "move": {
+      "name": "Low Kick",
+      "damage": 40,
+      "special_condition": null,
+      "energy_requisite": [
+        "Fighting",
+        "Colorless"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Psychic"
+    },
+    "retreat_cost": 1,
+    "ability": null
+  },
+  "142": {
+    "name": "Primeape",
+    "rarity": "2_diamond",
+    "packs": [
+      "A"
+    ],
+    "staging": "Stage 1",
+    "type": "Fighting",
+    "hp": 90,
+    "move": {
+      "name": "Fight Back",
+      "damage": "40+",
+      "special_condition": "If this Pok\u00e9mon has damage on it, this attack does 40 more damage.",
+      "energy_requisite": [
+        "Fighting",
+        "Colorless"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Psychic"
+    },
+    "retreat_cost": 1,
+    "ability": null
+  },
+  "143": {
+    "name": "Machop",
+    "rarity": "1_diamond",
+    "packs": [
+      "A"
+    ],
+    "staging": "Basic",
+    "type": "Fighting",
+    "hp": 70,
+    "move": {
+      "name": "Knuckle Punch",
+      "damage": 40,
+      "special_condition": null,
+      "energy_requisite": [
+        "Fighting",
+        "Colorless"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Psychic"
+    },
+    "retreat_cost": 2,
+    "ability": null
+  },
+  "144": {
+    "name": "Machoke",
+    "rarity": "2_diamond",
+    "packs": [
+      "A"
+    ],
+    "staging": "Stage 1",
+    "type": "Fighting",
+    "hp": 100,
+    "move": {
+      "name": "Strength",
+      "damage": 50,
+      "special_condition": null,
+      "energy_requisite": [
+        "Fighting",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Psychic"
+    },
+    "retreat_cost": 2,
+    "ability": null
+  },
+  "145": {
+    "name": "Machamp",
+    "rarity": "3_diamond",
+    "packs": [
+      "A"
+    ],
+    "staging": "Stage 2",
+    "type": "Fighting",
+    "hp": 150,
+    "move": {
+      "name": "Seismic Toss",
+      "damage": 100,
+      "special_condition": null,
+      "energy_requisite": [
+        "Fighting",
+        "Fighting",
+        "Colorless"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Psychic"
+    },
+    "retreat_cost": 3,
+    "ability": null
+  },
+  "146": {
+    "name": "Machamp EX",
+    "rarity": "4_diamond",
+    "packs": [
+      "A"
+    ],
+    "staging": "Stage 2",
+    "type": "Fighting",
+    "hp": 180,
+    "move": {
+      "name": "Mega Punch",
+      "damage": 120,
+      "special_condition": null,
+      "energy_requisite": [
+        "Fighting",
+        "Fighting",
+        "Fighting",
+        "Colorless"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Psychic"
+    },
+    "retreat_cost": 4,
+    "ability": null
+  },
+  "147": {
+    "name": "Geodude",
+    "rarity": "1_diamond",
+    "packs": [
+      "A"
+    ],
+    "staging": "Basic",
+    "type": "Fighting",
+    "hp": 70,
+    "move": {
+      "name": "Tackle",
+      "damage": 20,
+      "special_condition": null,
+      "energy_requisite": [
+        "Colorless"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Grass"
+    },
+    "retreat_cost": 1,
+    "ability": null
+  },
+  "148": {
+    "name": "Graveler",
+    "rarity": "2_diamond",
+    "packs": [
+      "A"
+    ],
+    "staging": "Stage 1",
+    "type": "Fighting",
+    "hp": 100,
+    "move": {
+      "name": "Rollout",
+      "damage": 70,
+      "special_condition": null,
+      "energy_requisite": [
+        "Fighting",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Grass"
+    },
+    "retreat_cost": 2,
+    "ability": null
+  },
+  "149": {
+    "name": "Golem",
+    "rarity": "3_diamond",
+    "packs": [
+      "A"
+    ],
+    "staging": "Stage 2",
+    "type": "Fighting",
+    "hp": 160,
+    "move": {
+      "name": "Double-Edge",
+      "damage": 160,
+      "special_condition": "This Pok\u00e9mon does 50 damage to itself.",
+      "energy_requisite": [
+        "Fighting",
+        "Fighting",
+        "Fighting",
+        "Colorless"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Grass"
+    },
+    "retreat_cost": 4,
+    "ability": null
+  },
+  "150": {
+    "name": "Onix",
+    "rarity": "2_diamond",
+    "packs": [
+      "A"
+    ],
+    "staging": "Basic",
+    "type": "Fighting",
+    "hp": 110,
+    "move": {
+      "name": "Land Crush",
+      "damage": 70,
+      "special_condition": null,
+      "energy_requisite": [
+        "Fighting",
+        "Fighting",
+        "Colorless"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Grass"
+    },
+    "retreat_cost": 3,
+    "ability": null
+  },
+  "151": {
+    "name": "Cubone",
+    "rarity": "1_diamond",
+    "packs": [
+      "C"
+    ],
+    "staging": "Basic",
+    "type": "Fighting",
+    "hp": 60,
+    "move": {
+      "name": "Growl",
+      "damage": null,
+      "special_condition": "During your opponent's next turn, attacks used by the Defending Pok\u00e9mon do 20 less damage.",
+      "energy_requisite": [
+        "Colorless"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Grass"
+    },
+    "retreat_cost": 1,
+    "ability": null
+  },
+  "152": {
+    "name": "Marowak",
+    "rarity": "3_diamond",
+    "packs": [
+      "C"
+    ],
+    "staging": "Stage 1",
+    "type": "Fighting",
+    "hp": 100,
+    "move": {
+      "name": "Bone Beatdown",
+      "damage": 40,
+      "special_condition": null,
+      "energy_requisite": [
+        "Fighting",
+        "Colorless"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Grass"
+    },
+    "retreat_cost": 2,
+    "ability": null
+  },
+  "153": {
+    "name": "Marowak EX",
+    "rarity": "4_diamond",
+    "packs": [
+      "C"
+    ],
+    "staging": "Stage 1",
+    "type": "Fighting",
+    "hp": 140,
+    "move": {
+      "name": "Bonemerang",
+      "damage": "80\u00d7",
+      "special_condition": "Flip 2 coins. This attack does 80 damage for each heads.",
+      "energy_requisite": [
+        "Fighting",
+        "Fighting",
+        "Colorless"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Grass"
+    },
+    "retreat_cost": 2,
+    "ability": null
+  },
+  "154": {
+    "name": "Hitmonlee",
+    "rarity": "2_diamond",
+    "packs": [
+      "C"
+    ],
+    "staging": "Basic",
+    "type": "Fighting",
+    "hp": 80,
+    "move": {
+      "name": "Stretch Kick",
+      "damage": null,
+      "special_condition": "This attack does 30 damage to 1 of your opponent's Benched Pok\u00e9mon.",
+      "energy_requisite": [
+        "Fighting"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Psychic"
+    },
+    "retreat_cost": 1,
+    "ability": null
+  },
+  "155": {
+    "name": "Hitmonchan",
+    "rarity": "2_diamond",
+    "packs": [
+      "A"
+    ],
+    "staging": "Basic",
+    "type": "Fighting",
+    "hp": 80,
+    "move": {
+      "name": "Jab",
+      "damage": 30,
+      "special_condition": null,
+      "energy_requisite": [
+        "Fighting",
+        "Colorless"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Psychic"
+    },
+    "retreat_cost": 1,
+    "ability": null
+  },
+  "156": {
+    "name": "Rhyhorn",
+    "rarity": "1_diamond",
+    "packs": [
+      "C"
+    ],
+    "staging": "Basic",
+    "type": "Fighting",
+    "hp": 80,
+    "move": {
+      "name": "Tackle",
+      "damage": 60,
+      "special_condition": null,
+      "energy_requisite": [
+        "Fighting",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Grass"
+    },
+    "retreat_cost": 3,
+    "ability": null
+  },
+  "157": {
+    "name": "Rhydon",
+    "rarity": "3_diamond",
+    "packs": [
+      "C"
+    ],
+    "staging": "Stage 1",
+    "type": "Fighting",
+    "hp": 120,
+    "move": {
+      "name": "Horn Drill",
+      "damage": 100,
+      "special_condition": null,
+      "energy_requisite": [
+        "Fighting",
+        "Fighting",
+        "Colorless"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Grass"
+    },
+    "retreat_cost": 3,
+    "ability": null
+  },
+  "158": {
+    "name": "Kabuto",
+    "rarity": "1_diamond",
+    "packs": [
+      "A"
+    ],
+    "staging": "Stage 1",
+    "type": "Fighting",
+    "hp": 90,
+    "move": {
+      "name": "Shell Attack",
+      "damage": 40,
+      "special_condition": null,
+      "energy_requisite": [
+        "Fighting",
+        "Colorless"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Grass"
+    },
+    "retreat_cost": 2,
+    "ability": null
+  },
+  "159": {
+    "name": "Kabutops",
+    "rarity": "3_diamond",
+    "packs": [
+      "A"
+    ],
+    "staging": "Stage 2",
+    "type": "Fighting",
+    "hp": 140,
+    "move": {
+      "name": "Leech Life",
+      "damage": 50,
+      "special_condition": "Heal from this Pok\u00e9mon the same amount of damage you did to your opponent's Active Pok\u00e9mon.",
+      "energy_requisite": [
+        "Fighting",
+        "Fighting",
+        "Colorless"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Grass"
+    },
+    "retreat_cost": 3,
+    "ability": null
+  },
+  "160": {
+    "name": "Mienfoo",
+    "rarity": "1_diamond",
+    "packs": [
+      "B"
+    ],
+    "staging": "Basic",
+    "type": "Fighting",
+    "hp": 60,
+    "move": {
+      "name": "Pound",
+      "damage": 20,
+      "special_condition": null,
+      "energy_requisite": [
+        "Colorless"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Psychic"
+    },
+    "retreat_cost": 1,
+    "ability": null
+  },
+  "161": {
+    "name": "Mienshao",
+    "rarity": "2_diamond",
+    "packs": [
+      "B"
+    ],
+    "staging": "Stage 1",
+    "type": "Fighting",
+    "hp": 90,
+    "move": {
+      "name": "Spiral Kick",
+      "damage": 40,
+      "special_condition": null,
+      "energy_requisite": [
+        "Fighting",
+        "Colorless"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Psychic"
+    },
+    "retreat_cost": 1,
+    "ability": null
+  },
+  "162": {
+    "name": "Clobbopus",
+    "rarity": "1_diamond",
+    "packs": [
+      "A",
+      "B",
+      "C"
+    ],
+    "staging": "Basic",
+    "type": "Fighting",
+    "hp": 80,
+    "move": {
+      "name": "Knuckle Punch",
+      "damage": 60,
+      "special_condition": null,
+      "energy_requisite": [
+        "Fighting",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Psychic"
+    },
+    "retreat_cost": 2,
+    "ability": null
+  },
+  "163": {
+    "name": "Grapploct",
+    "rarity": "3_diamond",
+    "packs": [
+      "A",
+      "B",
+      "C"
+    ],
+    "staging": "Stage 1",
+    "type": "Fighting",
+    "hp": 130,
+    "move": {
+      "name": "Knock Back",
+      "damage": 70,
+      "special_condition": "Switch your opponent's Active Pok\u00e9mon to the Bench. Your opponent chooses the new Active Pok\u00e9mon.",
+      "energy_requisite": [
+        "Fighting",
+        "Colorless"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Psychic"
+    },
+    "retreat_cost": 2,
+    "ability": null
+  },
+  "164": {
+    "name": "Ekans",
+    "rarity": "1_diamond",
+    "packs": [
+      "A",
+      "B",
+      "C"
+    ],
+    "staging": "Basic",
+    "type": "Poison",
+    "hp": 60,
+    "move": {
+      "name": "Bite",
+      "damage": 20,
+      "special_condition": null,
+      "energy_requisite": [
+        "Colorless"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Psychic"
+    },
+    "retreat_cost": 1,
+    "ability": null
+  },
+  "165": {
+    "name": "Arbok",
+    "rarity": "2_diamond",
+    "packs": [
+      "A",
+      "B",
+      "C"
+    ],
+    "staging": "Stage 1",
+    "type": "Poison",
+    "hp": 100,
+    "move": {
+      "name": "Corner",
+      "damage": 60,
+      "special_condition": "During your opponent's next turn, the Defending Pok\u00e9mon can't retreat.",
+      "energy_requisite": [
+        "Poison",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Psychic"
+    },
+    "retreat_cost": 2,
+    "ability": null
+  },
+  "166": {
+    "name": "Nidoran\u2640",
+    "rarity": "1_diamond",
+    "packs": [
+      "B"
+    ],
+    "staging": "Basic",
+    "type": "Poison",
+    "hp": 60,
+    "move": {
+      "name": "Call for Family",
+      "damage": null,
+      "special_condition": "Search your deck for 2 Basic Pok\u00e9mon and put them on your Bench.",
+      "energy_requisite": [
+        "Colorless"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Psychic"
+    },
+    "retreat_cost": 1,
+    "ability": null
+  },
+  "167": {
+    "name": "Nidorina",
+    "rarity": "2_diamond",
+    "packs": [
+      "B"
+    ],
+    "staging": "Stage 1",
+    "type": "Poison",
+    "hp": 80,
+    "move": {
+      "name": "Bite",
+      "damage": 30,
+      "special_condition": null,
+      "energy_requisite": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Psychic"
+    },
+    "retreat_cost": 1,
+    "ability": null
+  },
+  "168": {
+    "name": "Nidoqueen",
+    "rarity": "3_diamond",
+    "packs": [
+      "B"
+    ],
+    "staging": "Stage 2",
+    "type": "Poison",
+    "hp": 140,
+    "move": {
+      "name": "Lovestrike",
+      "damage": "80+",
+      "special_condition": "This attack does 20 more damage for each of your Benched Nidoran.",
+      "energy_requisite": [
+        "Poison",
+        "Poison",
+        "Colorless"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Psychic"
+    },
+    "retreat_cost": 3,
+    "ability": null
+  },
+  "169": {
+    "name": "Nidoran\u2642",
+    "rarity": "1_diamond",
+    "packs": [
+      "B"
+    ],
+    "staging": "Basic",
+    "type": "Poison",
+    "hp": 60,
+    "move": {
+      "name": "Peck",
+      "damage": 20,
+      "special_condition": null,
+      "energy_requisite": [
+        "Colorless"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Psychic"
+    },
+    "retreat_cost": 1,
+    "ability": null
+  },
+  "170": {
+    "name": "Nidorino",
+    "rarity": "2_diamond",
+    "packs": [
+      "B"
+    ],
+    "staging": "Stage 1",
+    "type": "Poison",
+    "hp": 90,
+    "move": {
+      "name": "Horn Attack",
+      "damage": 40,
+      "special_condition": null,
+      "energy_requisite": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Psychic"
+    },
+    "retreat_cost": 2,
+    "ability": null
+  },
+  "171": {
+    "name": "Nidoking",
+    "rarity": "3_diamond",
+    "packs": [
+      "B"
+    ],
+    "staging": "Stage 2",
+    "type": "Poison",
+    "hp": 150,
+    "move": {
+      "name": "Poison Horn",
+      "damage": 90,
+      "special_condition": "Your opponent's Active Pok\u00e9mon is now Poisoned.",
+      "energy_requisite": [
+        "Poison",
+        "Poison",
+        "Colorless"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Psychic"
+    },
+    "retreat_cost": 3,
+    "ability": null
+  },
+  "172": {
+    "name": "Zubat",
+    "rarity": "1_diamond",
+    "packs": [
+      "C"
+    ],
+    "staging": "Basic",
+    "type": "Poison",
+    "hp": 50,
+    "move": {
+      "name": "Glide",
+      "damage": 10,
+      "special_condition": null,
+      "energy_requisite": [
+        "Colorless"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Psychic"
+    },
+    "retreat_cost": 1,
+    "ability": null
+  },
+  "173": {
+    "name": "Golbat",
+    "rarity": "2_diamond",
+    "packs": [
+      "C"
+    ],
+    "staging": "Stage 1",
+    "type": "Poison",
+    "hp": 70,
+    "move": {
+      "name": "Wing Attack",
+      "damage": 40,
+      "special_condition": null,
+      "energy_requisite": [
+        "Poison",
+        "Colorless"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Psychic"
+    },
+    "retreat_cost": 1,
+    "ability": null
+  },
+  "174": {
+    "name": "Grimer",
+    "rarity": "1_diamond",
+    "packs": [
+      "C"
+    ],
+    "staging": "Basic",
+    "type": "Poison",
+    "hp": 70,
+    "move": {
+      "name": "Poison Gas",
+      "damage": 20,
+      "special_condition": "Your opponent's Active Pok\u00e9mon is now Poisoned.",
+      "energy_requisite": [
+        "Colorless"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Psychic"
+    },
+    "retreat_cost": 2,
+    "ability": null
+  },
+  "175": {
+    "name": "Muk",
+    "rarity": "3_diamond",
+    "packs": [
+      "C"
+    ],
+    "staging": "Stage 1",
+    "type": "Poison",
+    "hp": 130,
+    "move": {
+      "name": "Venoshock",
+      "damage": "70+",
+      "special_condition": "If your opponent's Active Pok\u00e9mon is Poisoned, this attack does 50 more damage.",
+      "energy_requisite": [
+        "Poison",
+        "Poison",
+        "Colorless"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Psychic"
+    },
+    "retreat_cost": 3,
+    "ability": null
+  },
+  "176": {
+    "name": "Koffing",
+    "rarity": "1_diamond",
+    "packs": [
+      "C"
+    ],
+    "staging": "Basic",
+    "type": "Poison",
+    "hp": 60,
+    "move": {
+      "name": "Suffocating Gas",
+      "damage": 20,
+      "special_condition": null,
+      "energy_requisite": [
+        "Colorless"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Psychic"
+    },
+    "retreat_cost": 1,
+    "ability": null
+  },
+  "177": {
+    "name": "Weezing",
+    "rarity": "3_diamond",
+    "packs": [
+      "C"
+    ],
+    "staging": "Stage 1",
+    "type": "Poison",
+    "hp": 110,
+    "move": {
+      "name": "Tackle",
+      "damage": 30,
+      "special_condition": null,
+      "energy_requisite": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Psychic"
+    },
+    "retreat_cost": 2,
+    "ability": {
+      "name": "Gas Leak",
+      "text": "If this Pok\u00e9mon is in the Active Spot, your opponent's Pok\u00e9mon in play have no Abilities."
+    }
+  },
+  "178": {
+    "name": "Mawile",
+    "rarity": "2_diamond",
+    "packs": [
+      "A"
+    ],
+    "staging": "Basic",
+    "type": "Steel",
+    "hp": 70,
+    "move": {
+      "name": "Crunch",
+      "damage": 20,
+      "special_condition": "Flip a coin. If heads, discard a random Energy from your opponent's Active Pok\u00e9mon.",
+      "energy_requisite": [
+        "Steel",
+        "Colorless"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Fire"
+    },
+    "retreat_cost": 1,
+    "ability": null
+  },
+  "179": {
+    "name": "Pawniard",
+    "rarity": "1_diamond",
+    "packs": [
+      "A",
+      "B",
+      "C"
+    ],
+    "staging": "Basic",
+    "type": "Steel",
+    "hp": 50,
+    "move": {
+      "name": "Pierce",
+      "damage": 30,
+      "special_condition": null,
+      "energy_requisite": [
+        "Steel"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Fire"
+    },
+    "retreat_cost": 1,
+    "ability": null
+  },
+  "180": {
+    "name": "Bisharp",
+    "rarity": "3_diamond",
+    "packs": [
+      "A",
+      "B",
+      "C"
+    ],
+    "staging": "Stage 1",
+    "type": "Steel",
+    "hp": 90,
+    "move": {
+      "name": "Metal Claw",
+      "damage": 70,
+      "special_condition": null,
+      "energy_requisite": [
+        "Steel",
+        "Steel"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Fire"
+    },
+    "retreat_cost": 2,
+    "ability": null
+  },
+  "181": {
+    "name": "Meltan",
+    "rarity": "1_diamond",
+    "packs": [
+      "A"
+    ],
+    "staging": "Basic",
+    "type": "Steel",
+    "hp": 60,
+    "move": {
+      "name": "Amass",
+      "damage": null,
+      "special_condition": "Take 1 Energy from your Energy Zone and attach it to this Pok\u00e9mon.",
+      "energy_requisite": [
+        "Colorless"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Fire"
+    },
+    "retreat_cost": 1,
+    "ability": null
+  },
+  "182": {
+    "name": "Melmetal",
+    "rarity": "3_diamond",
+    "packs": [
+      "A"
+    ],
+    "staging": "Stage 1",
+    "type": "Steel",
+    "hp": 130,
+    "move": {
+      "name": "Heavy Impact",
+      "damage": 120,
+      "special_condition": null,
+      "energy_requisite": [
+        "Steel",
+        "Steel",
+        "Colorless"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Fire"
+    },
+    "retreat_cost": 3,
+    "ability": {
+      "name": "Hard Coat",
+      "text": "This Pok\u00e9mon takes 30 less damage from attacks."
+    }
+  },
+  "183": {
+    "name": "Dratini",
+    "rarity": "1_diamond",
+    "packs": [
+      "C"
+    ],
+    "staging": "Basic",
+    "type": "Dragon",
+    "hp": 70,
+    "move": {
+      "name": "Ram",
+      "damage": 40,
+      "special_condition": null,
+      "energy_requisite": [
+        "Lightning",
+        "Colorless"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Fairy"
+    },
+    "retreat_cost": 1,
+    "ability": null
+  },
+  "184": {
+    "name": "Dragonair",
+    "rarity": "2_diamond",
+    "packs": [
+      "C"
+    ],
+    "staging": "Stage 1",
+    "type": "Dragon",
+    "hp": 100,
+    "move": {
+      "name": "Tail Smack",
+      "damage": 80,
+      "special_condition": null,
+      "energy_requisite": [
+        "Water",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Fairy"
+    },
+    "retreat_cost": 2,
+    "ability": null
+  },
+  "185": {
+    "name": "Dragonite",
+    "rarity": "3_diamond",
+    "packs": [
+      "C"
+    ],
+    "staging": "Stage 2",
+    "type": "Dragon",
+    "hp": 160,
+    "move": {
+      "name": "Draco Meteor",
+      "damage": null,
+      "special_condition": "One of your opponent's Pok\u00e9mon takes 100 damage. The opponent chooses which Pok\u00e9mon is damaged.",
+      "energy_requisite": [
+        "Water",
+        "Lightning",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Fairy"
+    },
+    "retreat_cost": 3,
+    "ability": null
+  },
+  "186": {
+    "name": "Pidgey",
+    "rarity": "1_diamond",
+    "packs": [
+      "C"
+    ],
+    "staging": "Basic",
+    "type": "Normal",
+    "hp": 60,
+    "move": {
+      "name": "Gust",
+      "damage": 20,
+      "special_condition": null,
+      "energy_requisite": [
+        "Colorless"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Lightning"
+    },
+    "retreat_cost": 1,
+    "ability": null
+  },
+  "187": {
+    "name": "Pidgeotto",
+    "rarity": "2_diamond",
+    "packs": [
+      "C"
+    ],
+    "staging": "Stage 1",
+    "type": "Normal",
+    "hp": 80,
+    "move": {
+      "name": "Gust",
+      "damage": 30,
+      "special_condition": null,
+      "energy_requisite": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Lightning"
+    },
+    "retreat_cost": 1,
+    "ability": null
+  },
+  "188": {
+    "name": "Pidgeot",
+    "rarity": "3_diamond",
+    "packs": [
+      "C"
+    ],
+    "staging": "Stage 2",
+    "type": "Normal",
+    "hp": 130,
+    "move": {
+      "name": "Wing Attack",
+      "damage": 70,
+      "special_condition": null,
+      "energy_requisite": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Lightning"
+    },
+    "retreat_cost": 1,
+    "ability": {
+      "name": "Drive Off",
+      "text": "Once during your turn, you may switch out your opponent's Active Pok\u00e9mon for a Pok\u00e9mon on their Bench."
+    }
+  },
+  "189": {
+    "name": "Rattata",
+    "rarity": "1_diamond",
+    "packs": [
+      "A",
+      "B",
+      "C"
+    ],
+    "staging": "Basic",
+    "type": "Normal",
+    "hp": 40,
+    "move": {
+      "name": "Gnaw",
+      "damage": 20,
+      "special_condition": null,
+      "energy_requisite": [
+        "Colorless"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Fighting"
+    },
+    "retreat_cost": 1,
+    "ability": null
+  },
+  "190": {
+    "name": "Raticate",
+    "rarity": "2_diamond",
+    "packs": [
+      "A",
+      "B",
+      "C"
+    ],
+    "staging": "Stage 1",
+    "type": "Normal",
+    "hp": 80,
+    "move": {
+      "name": "Bite",
+      "damage": 40,
+      "special_condition": null,
+      "energy_requisite": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Fighting"
+    },
+    "retreat_cost": 1,
+    "ability": null
+  },
+  "191": {
+    "name": "Spearow",
+    "rarity": "1_diamond",
+    "packs": [
+      "A"
+    ],
+    "staging": "Basic",
+    "type": "Normal",
+    "hp": 60,
+    "move": {
+      "name": "Peck",
+      "damage": 20,
+      "special_condition": null,
+      "energy_requisite": [
+        "Colorless"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Lightning"
+    },
+    "retreat_cost": 1,
+    "ability": null
+  },
+  "192": {
+    "name": "Fearow",
+    "rarity": "2_diamond",
+    "packs": [
+      "A"
+    ],
+    "staging": "Stage 1",
+    "type": "Normal",
+    "hp": 100,
+    "move": {
+      "name": "Drill Run",
+      "damage": 50,
+      "special_condition": "Flip a coin. If heads, discard 1 random Energy from your opponent's Active Pok\u00e9mon.",
+      "energy_requisite": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Lightning"
+    },
+    "retreat_cost": 1,
+    "ability": null
+  },
+  "193": {
+    "name": "Jigglypuff",
+    "rarity": "1_diamond",
+    "packs": [
+      "B"
+    ],
+    "staging": "Basic",
+    "type": "Normal",
+    "hp": 60,
+    "move": {
+      "name": "Pound",
+      "damage": 20,
+      "special_condition": null,
+      "energy_requisite": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Fighting"
+    },
+    "retreat_cost": 1,
+    "ability": null
+  },
+  "194": {
+    "name": "Wigglytuff",
+    "rarity": "3_diamond",
+    "packs": [
+      "B"
+    ],
+    "staging": "Stage 1",
+    "type": "Normal",
+    "hp": 100,
+    "move": {
+      "name": "Hyper Voice",
+      "damage": 60,
+      "special_condition": null,
+      "energy_requisite": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Fighting"
+    },
+    "retreat_cost": 2,
+    "ability": null
+  },
+  "195": {
+    "name": "Wigglytuff EX",
+    "rarity": "4_diamond",
+    "packs": [
+      "B"
+    ],
+    "staging": "Stage 1",
+    "type": "Normal",
+    "hp": 140,
+    "move": {
+      "name": "Sleepy Song",
+      "damage": null,
+      "special_condition": "Your opponent's Active Pok\u00e9mon is now Asleep.",
+      "energy_requisite": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Fighting"
+    },
+    "retreat_cost": 2,
+    "ability": null
+  },
+  "196": {
+    "name": "Meowth",
+    "rarity": "1_diamond",
+    "packs": [
+      "A"
+    ],
+    "staging": "Basic",
+    "type": "Normal",
+    "hp": 60,
+    "move": {
+      "name": "Pay Day",
+      "damage": 20,
+      "special_condition": "Draw a card.",
+      "energy_requisite": [
+        "Colorless"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Fighting"
+    },
+    "retreat_cost": 1,
+    "ability": null
+  },
+  "197": {
+    "name": "Persian",
+    "rarity": "2_diamond",
+    "packs": [
+      "A"
+    ],
+    "staging": "Stage 1",
+    "type": "Normal",
+    "hp": 90,
+    "move": {
+      "name": "Shadow Claw",
+      "damage": 40,
+      "special_condition": "Flip a coin. If heads, discard a random card from your opponent's hand.",
+      "energy_requisite": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Fighting"
+    },
+    "retreat_cost": 1,
+    "ability": null
+  },
+  "198": {
+    "name": "Farfetch\u2019d",
+    "rarity": "2_diamond",
+    "packs": [
+      "A",
+      "B",
+      "C"
+    ],
+    "staging": "Basic",
+    "type": "Normal",
+    "hp": 60,
+    "move": {
+      "name": "Leek Slap",
+      "damage": 40,
+      "special_condition": null,
+      "energy_requisite": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Lightning"
+    },
+    "retreat_cost": 1,
+    "ability": null
+  },
+  "199": {
+    "name": "Doduo",
+    "rarity": "1_diamond",
+    "packs": [
+      "A",
+      "B",
+      "C"
+    ],
+    "staging": "Basic",
+    "type": "Normal",
+    "hp": 60,
+    "move": {
+      "name": "Peck",
+      "damage": 20,
+      "special_condition": null,
+      "energy_requisite": [
+        "Colorless"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Lightning"
+    },
+    "retreat_cost": 1,
+    "ability": null
+  },
+  "200": {
+    "name": "Dodrio",
+    "rarity": "2_diamond",
+    "packs": [
+      "A",
+      "B",
+      "C"
+    ],
+    "staging": "Stage 1",
+    "type": "Normal",
+    "hp": 80,
+    "move": {
+      "name": "Drill Peck",
+      "damage": 40,
+      "special_condition": null,
+      "energy_requisite": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Lightning"
+    },
+    "retreat_cost": 1,
+    "ability": null
+  },
+  "201": {
+    "name": "Lickitung",
+    "rarity": "2_diamond",
+    "packs": [
+      "C"
+    ],
+    "staging": "Basic",
+    "type": "Normal",
+    "hp": 90,
+    "move": {
+      "name": "Continuous Lick",
+      "damage": "60\u00d7",
+      "special_condition": "Flip a coin until you get tails. This attack does 60 damage for each heads.",
+      "energy_requisite": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Fighting"
+    },
+    "retreat_cost": 3,
+    "ability": null
+  },
+  "202": {
+    "name": "Chansey",
+    "rarity": "3_diamond",
+    "packs": [
+      "B"
+    ],
+    "staging": "Basic",
+    "type": "Normal",
+    "hp": 120,
+    "move": {
+      "name": "Gentle Slap",
+      "damage": 60,
+      "special_condition": null,
+      "energy_requisite": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Fighting"
+    },
+    "retreat_cost": 2,
+    "ability": null
+  },
+  "203": {
+    "name": "Kangaskhan",
+    "rarity": "3_diamond",
+    "packs": [
+      "A"
+    ],
+    "staging": "Basic",
+    "type": "Normal",
+    "hp": 100,
+    "move": {
+      "name": "Dizzy Punch",
+      "damage": "30\u00d7",
+      "special_condition": "Flip 2 coins. This attack does 30 damage for each heads.",
+      "energy_requisite": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Fighting"
+    },
+    "retreat_cost": 2,
+    "ability": null
+  },
+  "204": {
+    "name": "Tauros",
+    "rarity": "2_diamond",
+    "packs": [
+      "A"
+    ],
+    "staging": "Basic",
+    "type": "Normal",
+    "hp": 100,
+    "move": {
+      "name": "Horn Attack",
+      "damage": 70,
+      "special_condition": null,
+      "energy_requisite": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Fighting"
+    },
+    "retreat_cost": 2,
+    "ability": null
+  },
+  "205": {
+    "name": "Ditto",
+    "rarity": "3_diamond",
+    "packs": [
+      "C"
+    ],
+    "staging": "Basic",
+    "type": "Normal",
+    "hp": 70,
+    "move": {
+      "name": "Copy Anything",
+      "damage": null,
+      "special_condition": "Choose 1 of your opponent's Pok\u00e9mon's attacks and use it as this attack. Ditto doesn't need the Energy to use it.",
+      "energy_requisite": [
+        "Colorless"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Fighting"
+    },
+    "retreat_cost": 1,
+    "ability": null
+  },
+  "206": {
+    "name": "Eevee",
+    "rarity": "1_diamond",
+    "packs": [
+      "A"
+    ],
+    "staging": "Basic",
+    "type": "Normal",
+    "hp": 60,
+    "move": {
+      "name": "Tackle",
+      "damage": 20,
+      "special_condition": null,
+      "energy_requisite": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Fighting"
+    },
+    "retreat_cost": 1,
+    "ability": null
+  },
+  "207": {
+    "name": "Eevee",
+    "rarity": "1_diamond",
+    "packs": [
+      "C"
+    ],
+    "staging": "Basic",
+    "type": "Normal",
+    "hp": 60,
+    "move": {
+      "name": "Tackle",
+      "damage": 20,
+      "special_condition": null,
+      "energy_requisite": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Fighting"
+    },
+    "retreat_cost": 1,
+    "ability": null
+  },
+  "208": {
+    "name": "Eevee",
+    "rarity": "1_diamond",
+    "packs": [
+      "B"
+    ],
+    "staging": "Basic",
+    "type": "Normal",
+    "hp": 60,
+    "move": {
+      "name": "Tackle",
+      "damage": 20,
+      "special_condition": null,
+      "energy_requisite": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Fighting"
+    },
+    "retreat_cost": 1,
+    "ability": null
+  },
+  "209": {
+    "name": "Porygon",
+    "rarity": "2_diamond",
+    "packs": [
+      "C"
+    ],
+    "staging": "Basic",
+    "type": "Normal",
+    "hp": 50,
+    "move": {
+      "name": "Sharpen",
+      "damage": 20,
+      "special_condition": null,
+      "energy_requisite": [
+        "Colorless"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Fighting"
+    },
+    "retreat_cost": 1,
+    "ability": {
+      "name": "Data Scan",
+      "text": "Once during your turn, you may look at the top card of your deck."
+    }
+  },
+  "210": {
+    "name": "Aerodactyl",
+    "rarity": "3_diamond",
+    "packs": [
+      "C"
+    ],
+    "staging": "Stage 1",
+    "type": "Normal",
+    "hp": 100,
+    "move": {
+      "name": "Primal Wingbeat",
+      "damage": null,
+      "special_condition": "Flip a coin. If heads, your opponent shuffles their Active Pok\u00e9mon into their deck.",
+      "energy_requisite": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Lightning"
+    },
+    "retreat_cost": 1,
+    "ability": null
+  },
+  "211": {
+    "name": "Snorlax",
+    "rarity": "3_diamond",
+    "packs": [
+      "B"
+    ],
+    "staging": "Basic",
+    "type": "Normal",
+    "hp": 150,
+    "move": {
+      "name": "Rollout",
+      "damage": 70,
+      "special_condition": null,
+      "energy_requisite": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Fighting"
+    },
+    "retreat_cost": 4,
+    "ability": null
+  },
+  "212": {
+    "name": "Minccino",
+    "rarity": "1_diamond",
+    "packs": [
+      "A",
+      "B",
+      "C"
+    ],
+    "staging": "Basic",
+    "type": "Normal",
+    "hp": 60,
+    "move": {
+      "name": "Tail Smack",
+      "damage": 20,
+      "special_condition": null,
+      "energy_requisite": [
+        "Colorless"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Fighting"
+    },
+    "retreat_cost": 1,
+    "ability": null
+  },
+  "213": {
+    "name": "Cinccino",
+    "rarity": "2_diamond",
+    "packs": [
+      "A",
+      "B",
+      "C"
+    ],
+    "staging": "Stage 1",
+    "type": "Normal",
+    "hp": 90,
+    "move": {
+      "name": "Do the Wave",
+      "damage": "30+",
+      "special_condition": "This attack does 10 more damage for each of your Benched Pok\u00e9mon.",
+      "energy_requisite": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Fighting"
+    },
+    "retreat_cost": 1,
+    "ability": null
+  },
+  "214": {
+    "name": "Wooloo",
+    "rarity": "1_diamond",
+    "packs": [
+      "A",
+      "B",
+      "C"
+    ],
+    "staging": "Basic",
+    "type": "Normal",
+    "hp": 70,
+    "move": {
+      "name": "Tackle",
+      "damage": 30,
+      "special_condition": null,
+      "energy_requisite": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Fighting"
+    },
+    "retreat_cost": 1,
+    "ability": null
+  },
+  "215": {
+    "name": "Dubwool",
+    "rarity": "2_diamond",
+    "packs": [
+      "A",
+      "B",
+      "C"
+    ],
+    "staging": "Stage 1",
+    "type": "Normal",
+    "hp": 120,
+    "move": {
+      "name": "Rolling Tackle",
+      "damage": 80,
+      "special_condition": null,
+      "energy_requisite": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Fighting"
+    },
+    "retreat_cost": 2,
+    "ability": null
+  },
+  "216": {
+    "name": "Helix Fossil",
+    "rarity": "1_diamond",
+    "packs": [
+      "B"
+    ],
+    "staging": null,
+    "type": "Item",
+    "hp": 40,
+    "move": null,
+    "special_condition": "Play this card as if it were a 40 HP Basic Pok\u00e9mon. At any time during your turn, you may discard this card. This card cannot retreat.",
+    "energy_requisite": null,
+    "weakness": null,
+    "retreat_cost": null,
+    "ability": null
+  },
+  "217": {
+    "name": "Dome Fossil",
+    "rarity": "1_diamond",
+    "packs": [
+      "A"
+    ],
+    "staging": null,
+    "type": "Item",
+    "hp": 40,
+    "move": null,
+    "special_condition": "Play this card as if it were a 40 HP Basic Pok\u00e9mon. At any time during your turn, you may discard this card. This card cannot retreat.",
+    "energy_requisite": null,
+    "weakness": null,
+    "retreat_cost": null,
+    "ability": null
+  },
+  "218": {
+    "name": "Old Amber",
+    "rarity": "1_diamond",
+    "packs": [
+      "C",
+      "D"
+    ],
+    "staging": null,
+    "type": "Item",
+    "hp": 40,
+    "move": null,
+    "special_condition": "Play this card as if it were a 40 HP Basic Pok\u00e9mon. At any time during your turn, you may discard this card. This card cannot retreat.",
+    "energy_requisite": null,
+    "weakness": null,
+    "retreat_cost": null,
+    "ability": null
+  },
+  "219": {
+    "name": "Erika",
+    "rarity": "2_diamond",
+    "packs": [
+      "A"
+    ],
+    "staging": null,
+    "type": "Supporter",
+    "hp": null,
+    "move": null,
+    "special_condition": "Heal 50 damage from 1 of your Pok\u00e9mon.",
+    "energy_requisite": null,
+    "weakness": null,
+    "retreat_cost": null,
+    "ability": null
+  },
+  "220": {
+    "name": "Misty",
+    "rarity": "2_diamond",
+    "packs": [
+      "B"
+    ],
+    "staging": null,
+    "type": "Supporter",
+    "hp": null,
+    "move": null,
+    "special_condition": "Choose 1 of your Pok\u00e9mon, and flip a coin until you get tails. For each heads, take 1 Energy from your discard pile and attach it to that Pok\u00e9mon.",
+    "energy_requisite": null,
+    "weakness": null,
+    "retreat_cost": null,
+    "ability": null
+  },
+  "221": {
+    "name": "Blaine",
+    "rarity": "2_diamond",
+    "packs": [
+      "A"
+    ],
+    "staging": null,
+    "type": "Supporter",
+    "hp": null,
+    "move": null,
+    "special_condition": "During this turn, attacks used by your Pok\u00e9mon do 30 more damage to your opponent's Active Pok\u00e9mon.",
+    "energy_requisite": null,
+    "weakness": null,
+    "retreat_cost": null,
+    "ability": null
+  },
+  "222": {
+    "name": "Koga",
+    "rarity": "2_diamond",
+    "packs": [
+      "C"
+    ],
+    "staging": null,
+    "type": "Supporter",
+    "hp": null,
+    "move": null,
+    "special_condition": "Put your Muk or Weezing in the Active Spot into your hand.",
+    "energy_requisite": null,
+    "weakness": null,
+    "retreat_cost": null,
+    "ability": null
+  },
+  "223": {
+    "name": "Giovanni",
+    "rarity": "2_diamond",
+    "packs": [
+      "C"
+    ],
+    "staging": null,
+    "type": "Supporter",
+    "hp": null,
+    "move": null,
+    "special_condition": "During this turn, attacks used by your Pok\u00e9mon do 10 more damage to your opponent's Active Pok\u00e9mon.",
+    "energy_requisite": null,
+    "weakness": null,
+    "retreat_cost": null,
+    "ability": null
+  },
+  "224": {
+    "name": "Brock",
+    "rarity": "2_diamond",
+    "packs": [
+      "B"
+    ],
+    "staging": null,
+    "type": "Supporter",
+    "hp": null,
+    "move": null,
+    "special_condition": "Take a Fighting Energy from your discard pile and attach it to Onix or Geodude.",
+    "energy_requisite": null,
+    "weakness": null,
+    "retreat_cost": null,
+    "ability": null
+  },
+  "225": {
+    "name": "Sabrina",
+    "rarity": "2_diamond",
+    "packs": [
+      "A"
+    ],
+    "staging": null,
+    "type": "Supporter",
+    "hp": null,
+    "move": null,
+    "special_condition": "Switch your opponent's Active Pok\u00e9mon to the Bench. Your opponent chooses the new Active Pok\u00e9mon.",
+    "energy_requisite": null,
+    "weakness": null,
+    "retreat_cost": null,
+    "ability": null
+  },
+  "226": {
+    "name": "Lt. Surge",
+    "rarity": "2_diamond",
+    "packs": [
+      "B"
+    ],
+    "staging": null,
+    "type": "Supporter",
+    "hp": null,
+    "move": null,
+    "special_condition": "Move all Energy from your Benched Pok\u00e9mon to Raichu, Electrode, or Electabuzz in the Active Spot.",
+    "energy_requisite": null,
+    "weakness": null,
+    "retreat_cost": null,
+    "ability": null
+  },
+  "227": {
+    "name": "Bulbasaur",
+    "rarity": "1_star",
+    "packs": [
+      "C"
+    ],
+    "staging": "Basic",
+    "type": "Grass",
+    "hp": 60,
+    "move": {
+      "name": "Vine Whip",
+      "damage": 40,
+      "special_condition": null,
+      "energy_requisite": [
+        "Grass",
+        "Colorless"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Fire"
+    },
+    "retreat_cost": 1,
+    "ability": null
+  },
+  "228": {
+    "name": "Gloom",
+    "rarity": "1_star",
+    "packs": [
+      "A"
+    ],
+    "staging": "Stage 1",
+    "type": "Grass",
+    "hp": 80,
+    "move": {
+      "name": "Drool",
+      "damage": 40,
+      "special_condition": null,
+      "energy_requisite": [
+        "Grass",
+        "Grass"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Fire"
+    },
+    "retreat_cost": 1,
+    "ability": null
+  },
+  "229": {
+    "name": "Pinsir",
+    "rarity": "1_star",
+    "packs": [
+      "A"
+    ],
+    "staging": "Basic",
+    "type": "Grass",
+    "hp": 90,
+    "move": {
+      "name": "Double Lariat",
+      "damage": "30\u00d7",
+      "special_condition": "Flip 2 coins. This attack does 30 damage for each heads.",
+      "energy_requisite": [
+        "Grass",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Fire"
+    },
+    "retreat_cost": 2,
+    "ability": null
+  },
+  "230": {
+    "name": "Charmander",
+    "rarity": "1_star",
+    "packs": [
+      "A"
+    ],
+    "staging": "Basic",
+    "type": "Fire",
+    "hp": 60,
+    "move": {
+      "name": "Ember",
+      "damage": 30,
+      "special_condition": "Discard a Fire Energy attached to this Pok\u00e9mon.",
+      "energy_requisite": [
+        "Fire",
+        "Colorless"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Water"
+    },
+    "retreat_cost": 1,
+    "ability": null
+  },
+  "231": {
+    "name": "Rapidash",
+    "rarity": "1_star",
+    "packs": [
+      "A"
+    ],
+    "staging": "Stage 1",
+    "type": "Fire",
+    "hp": 100,
+    "move": {
+      "name": "Fire Mane",
+      "damage": 40,
+      "special_condition": null,
+      "energy_requisite": [
+        "Fire",
+        "Colorless"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Water"
+    },
+    "retreat_cost": 1,
+    "ability": null
+  },
+  "232": {
+    "name": "Squirtle",
+    "rarity": "1_star",
+    "packs": [
+      "B"
+    ],
+    "staging": "Basic",
+    "type": "Water",
+    "hp": 60,
+    "move": {
+      "name": "Water Gun",
+      "damage": 40,
+      "special_condition": null,
+      "energy_requisite": [
+        "Water",
+        "Colorless"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Electric"
+    },
+    "retreat_cost": 1,
+    "ability": null
+  },
+  "233": {
+    "name": "Gyarados",
+    "rarity": "1_star",
+    "packs": [
+      "B"
+    ],
+    "staging": "Stage 1",
+    "type": "Water",
+    "hp": 150,
+    "move": {
+      "name": "Hyper Beam",
+      "damage": 100,
+      "special_condition": "Discard 1 Energy attached to your opponent's Active Pok\u00e9mon.",
+      "energy_requisite": [
+        "Water",
+        "Water",
+        "Water",
+        "Colorless"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Electric"
+    },
+    "retreat_cost": 3,
+    "ability": null
+  },
+  "234": {
+    "name": "Lapras",
+    "rarity": "1_star",
+    "packs": [
+      "A"
+    ],
+    "staging": "Basic",
+    "type": "Water",
+    "hp": 100,
+    "move": {
+      "name": "Hydro Pump",
+      "damage": "30+",
+      "special_condition": "This attack does 10 more damage for each Water Energy attached to this Pok\u00e9mon.",
+      "energy_requisite": [
+        "Water",
+        "Water",
+        "Colorless"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Electric"
+    },
+    "retreat_cost": 2,
+    "ability": null
+  },
+  "235": {
+    "name": "Electrode",
+    "rarity": "1_star",
+    "packs": [
+      "B"
+    ],
+    "staging": "Stage 1",
+    "type": "Electric",
+    "hp": 80,
+    "move": {
+      "name": "Electro Ball",
+      "damage": 70,
+      "special_condition": null,
+      "energy_requisite": [
+        "Electric",
+        "Electric",
+        "Colorless"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Fighting"
+    },
+    "retreat_cost": 1,
+    "ability": null
+  },
+  "236": {
+    "name": "Alakazam",
+    "rarity": "1_star",
+    "packs": [
+      "A"
+    ],
+    "staging": "Stage 2",
+    "type": "Psychic",
+    "hp": 130,
+    "move": {
+      "name": "Mind Shock",
+      "damage": 100,
+      "special_condition": "This attack's damage isn't affected by Weakness or Resistance.",
+      "energy_requisite": [
+        "Psychic",
+        "Psychic",
+        "Colorless"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Psychic"
+    },
+    "retreat_cost": 2,
+    "ability": null
+  },
+  "237": {
+    "name": "Slowpoke",
+    "rarity": "1_star",
+    "packs": [
+      "A"
+    ],
+    "staging": "Basic",
+    "type": "Water",
+    "hp": 70,
+    "move": {
+      "name": "Tail Whap",
+      "damage": 30,
+      "special_condition": null,
+      "energy_requisite": [
+        "Water",
+        "Colorless"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Electric"
+    },
+    "retreat_cost": 1,
+    "ability": null
+  },
+  "238": {
+    "name": "Diglett",
+    "rarity": "1_star",
+    "packs": [
+      "B"
+    ],
+    "staging": "Basic",
+    "type": "Fighting",
+    "hp": 50,
+    "move": {
+      "name": "Mud-Slap",
+      "damage": 20,
+      "special_condition": null,
+      "energy_requisite": [
+        "Fighting"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Grass"
+    },
+    "retreat_cost": 1,
+    "ability": null
+  },
+  "239": {
+    "name": "Cubone",
+    "rarity": "1_star",
+    "packs": [
+      "C"
+    ],
+    "staging": "Basic",
+    "type": "Fighting",
+    "hp": 60,
+    "move": {
+      "name": "Growl",
+      "damage": null,
+      "special_condition": "During your opponent's next turn, attacks used by the Defending Pok\u00e9mon do 20 less damage.",
+      "energy_requisite": [
+        "Colorless"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Grass"
+    },
+    "retreat_cost": 1,
+    "ability": null
+  },
+  "240": {
+    "name": "Nidoqueen",
+    "rarity": "1_star",
+    "packs": [
+      "B"
+    ],
+    "staging": "Stage 2",
+    "type": "Poison",
+    "hp": 140,
+    "move": {
+      "name": "Lovestrike",
+      "damage": "80+",
+      "special_condition": "This attack does 20 more damage for each of your Benched Nidoran.",
+      "energy_requisite": [
+        "Poison",
+        "Poison",
+        "Colorless"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Psychic"
+    },
+    "retreat_cost": 3,
+    "ability": null
+  },
+  "241": {
+    "name": "Nidoking",
+    "rarity": "1_star",
+    "packs": [
+      "B"
+    ],
+    "staging": "Stage 2",
+    "type": "Poison",
+    "hp": 150,
+    "move": {
+      "name": "Poison Horn",
+      "damage": 90,
+      "special_condition": "Your opponent's Active Pok\u00e9mon is now Poisoned.",
+      "energy_requisite": [
+        "Poison",
+        "Poison",
+        "Colorless"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Psychic"
+    },
+    "retreat_cost": 3,
+    "ability": null
+  },
+  "242": {
+    "name": "Golbat",
+    "rarity": "1_star",
+    "packs": [
+      "C"
+    ],
+    "staging": "Stage 1",
+    "type": "Poison",
+    "hp": 70,
+    "move": {
+      "name": "Wing Attack",
+      "damage": 40,
+      "special_condition": null,
+      "energy_requisite": [
+        "Poison",
+        "Colorless"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Psychic"
+    },
+    "retreat_cost": 1,
+    "ability": null
+  },
+  "243": {
+    "name": "Weezing",
+    "rarity": "1_star",
+    "packs": [
+      "C"
+    ],
+    "staging": "Stage 1",
+    "type": "Poison",
+    "hp": 110,
+    "move": {
+      "name": "Tackle",
+      "damage": 30,
+      "special_condition": null,
+      "energy_requisite": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Psychic"
+    },
+    "retreat_cost": 2,
+    "ability": {
+      "name": "Gas Leak",
+      "text": "If this Pok\u00e9mon is in the Active Spot, your opponent's Pok\u00e9mon in play have no Abilities."
+    }
+  },
+  "244": {
+    "name": "Dragonite",
+    "rarity": "1_star",
+    "packs": [
+      "C"
+    ],
+    "staging": "Stage 2",
+    "type": "Dragon",
+    "hp": 160,
+    "move": {
+      "name": "Draco Meteor",
+      "damage": null,
+      "special_condition": "One of your opponent's Pok\u00e9mon takes 100 damage. The opponent chooses which Pok\u00e9mon is damaged.",
+      "energy_requisite": [
+        "Water",
+        "Lightning",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Fairy"
+    },
+    "retreat_cost": 3,
+    "ability": null
+  },
+  "245": {
+    "name": "Pidgeot",
+    "rarity": "1_star",
+    "packs": [
+      "C"
+    ],
+    "staging": "Stage 2",
+    "type": "Normal",
+    "hp": 130,
+    "move": {
+      "name": "Wing Attack",
+      "damage": 70,
+      "special_condition": null,
+      "energy_requisite": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Lightning"
+    },
+    "retreat_cost": 1,
+    "ability": {
+      "name": "Drive Off",
+      "text": "Once during your turn, you may switch out your opponent's Active Pok\u00e9mon for a Pok\u00e9mon on their Bench."
+    }
+  },
+  "246": {
+    "name": "Meowth",
+    "rarity": "1_star",
+    "packs": [
+      "A"
+    ],
+    "staging": "Basic",
+    "type": "Normal",
+    "hp": 90,
+    "move": {
+      "name": "Pay Day",
+      "damage": 40,
+      "special_condition": "Flip a coin. If heads, draw a card.",
+      "energy_requisite": [
+        "Steel",
+        "Colorless"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Fire"
+    },
+    "retreat_cost": 1,
+    "ability": null
+  },
+  "247": {
+    "name": "Ditto",
+    "rarity": "1_star",
+    "packs": [
+      "C"
+    ],
+    "staging": "Basic",
+    "type": "Normal",
+    "hp": 70,
+    "move": {
+      "name": "Copy Anything",
+      "damage": null,
+      "special_condition": "Choose 1 of your opponent's Pok\u00e9mon's attacks and use it as this attack. Ditto doesn't need the Energy to use it.",
+      "energy_requisite": [
+        "Colorless"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Fighting"
+    },
+    "retreat_cost": 1,
+    "ability": null
+  },
+  "248": {
+    "name": "Eevee",
+    "rarity": "1_star",
+    "packs": [
+      "B"
+    ],
+    "staging": "Basic",
+    "type": "Normal",
+    "hp": 70,
+    "move": {
+      "name": "Copy Anything",
+      "damage": null,
+      "special_condition": "Choose 1 of your opponent's Pok\u00e9mon's attacks and use it as this attack. Ditto doesn't need the Energy to use it.",
+      "energy_requisite": [
+        "Colorless"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Fighting"
+    },
+    "retreat_cost": 1,
+    "ability": null
+  },
+  "249": {
+    "name": "Porygon",
+    "rarity": "1_star",
+    "packs": [
+      "C"
+    ],
+    "staging": "Basic",
+    "type": "Normal",
+    "hp": 70,
+    "move": {
+      "name": "Copy Anything",
+      "damage": null,
+      "special_condition": "Choose 1 of your opponent's Pok\u00e9mon's attacks and use it as this attack. Ditto doesn't need the Energy to use it.",
+      "energy_requisite": [
+        "Colorless"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Fighting"
+    },
+    "retreat_cost": 1,
+    "ability": null
+  },
+  "250": {
+    "name": "Snorlax",
+    "rarity": "1_star",
+    "packs": [
+      "B"
+    ],
+    "staging": "Basic",
+    "type": "Normal",
+    "hp": 70,
+    "move": {
+      "name": "Copy Anything",
+      "damage": null,
+      "special_condition": "Choose 1 of your opponent's Pok\u00e9mon's attacks and use it as this attack. Ditto doesn't need the Energy to use it.",
+      "energy_requisite": [
+        "Colorless"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Fighting"
+    },
+    "retreat_cost": 1,
+    "ability": null
+  },
+  "251": {
+    "name": "Venusaur EX",
+    "rarity": "2_star",
+    "packs": [
+      "C"
+    ],
+    "staging": "Stage 2",
+    "type": "Grass",
+    "hp": 190,
+    "move": {
+      "name": "Giant Bloom",
+      "damage": 100,
+      "special_condition": "Heal 30 damage from this Pok\u00e9mon.",
+      "energy_requisite": [
+        "Grass",
+        "Grass",
+        "Colorless"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Fire"
+    },
+    "retreat_cost": 4,
+    "ability": null
+  },
+  "252": {
+    "name": "Exeggutor EX",
+    "rarity": "2_star",
+    "packs": [
+      "A"
+    ],
+    "staging": "Stage 1",
+    "type": "Grass",
+    "hp": 160,
+    "move": {
+      "name": "Tropical Swing",
+      "damage": 40,
+      "special_condition": "Flip a coin. If heads, this attack does 20 more damage.",
+      "energy_requisite": [
+        "Grass",
+        "Colorless"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Fire"
+    },
+    "retreat_cost": 3,
+    "ability": null
+  },
+  "253": {
+    "name": "Charizard EX",
+    "rarity": "2_star",
+    "packs": [
+      "A"
+    ],
+    "staging": "Stage 2",
+    "type": "Fire",
+    "hp": 180,
+    "move": {
+      "name": "Crimson Storm",
+      "damage": 300,
+      "special_condition": "Discard 3 Fire Energy attached to this Pok\u00e9mon.",
+      "energy_requisite": [
+        "Fire",
+        "Fire",
+        "Fire",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Water"
+    },
+    "retreat_cost": 4,
+    "ability": null
+  },
+  "254": {
+    "name": "Arcanine EX",
+    "rarity": "2_star",
+    "packs": [
+      "B"
+    ],
+    "staging": "Stage 1",
+    "type": "Fire",
+    "hp": 190,
+    "move": {
+      "name": "Inferno Onrush",
+      "damage": 120,
+      "special_condition": "This Pok\u00e9mon does 50 damage to itself.",
+      "energy_requisite": [
+        "Fire",
+        "Fire",
+        "Colorless"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Water"
+    },
+    "retreat_cost": 3,
+    "ability": null
+  },
+  "255": {
+    "name": "Moltres EX",
+    "rarity": "2_star",
+    "packs": [
+      "A"
+    ],
+    "staging": "Basic",
+    "type": "Fire",
+    "hp": 140,
+    "move": {
+      "name": "Heat Blast",
+      "damage": 70,
+      "special_condition": null,
+      "energy_requisite": [
+        "Fire",
+        "Fire",
+        "Colorless"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Water"
+    },
+    "retreat_cost": 2,
+    "ability": {
+      "name": "Inferno Dance",
+      "text": "Take an Energy card from your discard pile and attach it to 1 of your Fire Pok\u00e9mon."
+    }
+  },
+  "256": {
+    "name": "Blastoise EX",
+    "rarity": "2_star",
+    "packs": [
+      "B"
+    ],
+    "staging": "Stage 2",
+    "type": "Water",
+    "hp": 180,
+    "move": {
+      "name": "Hydro Bazooka",
+      "damage": 100,
+      "special_condition": "This attack does 30 damage to 2 of your opponent's Benched Pok\u00e9mon.",
+      "energy_requisite": [
+        "Water",
+        "Water",
+        "Colorless"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Electric"
+    },
+    "retreat_cost": 3,
+    "ability": null
+  },
+  "257": {
+    "name": "Starmie EX",
+    "rarity": "2_star",
+    "packs": [
+      "A"
+    ],
+    "staging": "Stage 1",
+    "type": "Water",
+    "hp": 130,
+    "move": {
+      "name": "Hydro Splash",
+      "damage": 90,
+      "special_condition": null,
+      "energy_requisite": [
+        "Water",
+        "Colorless"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Electric"
+    },
+    "retreat_cost": 1,
+    "ability": null
+  },
+  "258": {
+    "name": "Articuno EX",
+    "rarity": "2_star",
+    "packs": [
+      "C"
+    ],
+    "staging": "Basic",
+    "type": "Water",
+    "hp": 140,
+    "move": {
+      "name": "Blizzard",
+      "damage": 80,
+      "special_condition": "This attack does 10 damage to each of your opponent's Benched Pok\u00e9mon.",
+      "energy_requisite": [
+        "Water",
+        "Water",
+        "Colorless"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Electric"
+    },
+    "retreat_cost": 2,
+    "ability": null
+  },
+  "259": {
+    "name": "Pikachu EX",
+    "rarity": "2_star",
+    "packs": [
+      "B"
+    ],
+    "staging": "Basic",
+    "type": "Electric",
+    "hp": 120,
+    "move": {
+      "name": "Circle Circuit",
+      "damage": "30\u00d7",
+      "special_condition": "This attack does 30 damage for each of your Benched Pok\u00e9mon.",
+      "energy_requisite": [
+        "Electric",
+        "Colorless"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Fighting"
+    },
+    "retreat_cost": 1,
+    "ability": null
+  },
+  "260": {
+    "name": "Zapdos EX",
+    "rarity": "2_star",
+    "packs": [
+      "B"
+    ],
+    "staging": "Basic",
+    "type": "Electric",
+    "hp": 130,
+    "move": {
+      "name": "Thundering Hurricane",
+      "damage": "50\u00d7",
+      "special_condition": "Flip 4 coins. This attack does 50 damage for each heads.",
+      "energy_requisite": [
+        "Electric",
+        "Electric",
+        "Colorless"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Fighting"
+    },
+    "retreat_cost": 2,
+    "ability": null
+  },
+  "261": {
+    "name": "Gengar EX",
+    "rarity": "2_star",
+    "packs": [
+      "C"
+    ],
+    "staging": "Stage 2",
+    "type": "Psychic",
+    "hp": 160,
+    "move": {
+      "name": "Spooky Shot",
+      "damage": 100,
+      "special_condition": null,
+      "energy_requisite": [
+        "Psychic",
+        "Psychic",
+        "Colorless"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Psychic"
+    },
+    "retreat_cost": 2,
+    "ability": {
+      "name": "Shadow Spellbind",
+      "text": "Your opponent's Active Pok\u00e9mon cannot retreat during their next turn."
+    }
+  },
+  "262": {
+    "name": "Mewtwo EX",
+    "rarity": "2_star",
+    "packs": [
+      "C"
+    ],
+    "staging": "Basic",
+    "type": "Psychic",
+    "hp": 180,
+    "move": {
+      "name": "Psydrive",
+      "damage": 150,
+      "special_condition": "Discard 1 Psychic Energy attached to this Pok\u00e9mon.",
+      "energy_requisite": [
+        "Psychic",
+        "Psychic",
+        "Colorless"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Psychic"
+    },
+    "retreat_cost": 2,
+    "ability": null
+  },
+  "263": {
+    "name": "Machamp EX",
+    "rarity": "2_star",
+    "packs": [
+      "A"
+    ],
+    "staging": "Stage 2",
+    "type": "Fighting",
+    "hp": 180,
+    "move": {
+      "name": "Brick Break",
+      "damage": 120,
+      "special_condition": null,
+      "energy_requisite": [
+        "Fighting",
+        "Fighting",
+        "Colorless"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Psychic"
+    },
+    "retreat_cost": 3,
+    "ability": null
+  },
+  "264": {
+    "name": "Marowak EX",
+    "rarity": "2_star",
+    "packs": [
+      "C"
+    ],
+    "staging": "Stage 1",
+    "type": "Fighting",
+    "hp": 140,
+    "move": {
+      "name": "Bonemerang",
+      "damage": 80,
+      "special_condition": "Flip 2 coins. This attack does 80 damage for each heads.",
+      "energy_requisite": [
+        "Fighting",
+        "Colorless"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Grass"
+    },
+    "retreat_cost": 2,
+    "ability": null
+  },
+  "265": {
+    "name": "Wigglytuff EX",
+    "rarity": "2_star",
+    "packs": [
+      "B"
+    ],
+    "staging": "Stage 1",
+    "type": "Normal",
+    "hp": 140,
+    "move": {
+      "name": "Sleepy Song",
+      "damage": null,
+      "special_condition": "Your opponent's Active Pok\u00e9mon is now Asleep.",
+      "energy_requisite": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Fighting"
+    },
+    "retreat_cost": 2,
+    "ability": null
+  },
+  "266": {
+    "name": "Erika",
+    "rarity": "2_star",
+    "packs": [
+      "A"
+    ],
+    "staging": null,
+    "type": "Supporter",
+    "hp": null,
+    "move": null,
+    "special_condition": "Heal 50 damage from 3 of your Grass Pok\u00e9mon.",
+    "energy_requisite": null,
+    "weakness": null,
+    "retreat_cost": null,
+    "ability": null
+  },
+  "267": {
+    "name": "Misty",
+    "rarity": "2_star",
+    "packs": [
+      "B"
+    ],
+    "staging": null,
+    "type": "Supporter",
+    "hp": null,
+    "move": null,
+    "special_condition": "Choose 2 of your Pok\u00e9mon, and take an Energy from your discard pile to attach to them.",
+    "energy_requisite": null,
+    "weakness": null,
+    "retreat_cost": null,
+    "ability": null
+  },
+  "268": {
+    "name": "Blaine",
+    "rarity": "2_star",
+    "packs": [
+      "A"
+    ],
+    "staging": null,
+    "type": "Supporter",
+    "hp": null,
+    "move": null,
+    "special_condition": "Your Fire Pok\u00e9mon deal 50 more damage during this turn.",
+    "energy_requisite": null,
+    "weakness": null,
+    "retreat_cost": null,
+    "ability": null
+  },
+  "269": {
+    "name": "Koga",
+    "rarity": "2_star",
+    "packs": [
+      "C"
+    ],
+    "staging": null,
+    "type": "Supporter",
+    "hp": null,
+    "move": null,
+    "special_condition": "Poison your opponent's Active Pok\u00e9mon and deal 30 damage to it.",
+    "energy_requisite": null,
+    "weakness": null,
+    "retreat_cost": null,
+    "ability": null
+  },
+  "270": {
+    "name": "Giovanni",
+    "rarity": "2_star",
+    "packs": [
+      "C"
+    ],
+    "staging": null,
+    "type": "Supporter",
+    "hp": null,
+    "move": null,
+    "special_condition": "Draw 2 cards, and increase your Active Pok\u00e9mon's damage by 20 for this turn.",
+    "energy_requisite": null,
+    "weakness": null,
+    "retreat_cost": null,
+    "ability": null
+  },
+  "271": {
+    "name": "Brock",
+    "rarity": "2_star",
+    "packs": [
+      "B"
+    ],
+    "staging": null,
+    "type": "Supporter",
+    "hp": null,
+    "move": null,
+    "special_condition": "Take a Fighting Energy from your discard pile and attach it to Onix or Geodude.",
+    "energy_requisite": null,
+    "weakness": null,
+    "retreat_cost": null,
+    "ability": null
+  },
+  "272": {
+    "name": "Sabrina",
+    "rarity": "two_star",
+    "packs": [
+      "A"
+    ],
+    "staging": null,
+    "type": "Supporter",
+    "hp": null,
+    "move": null,
+    "special_condition": "Switch your opponent's Active Pok\u00e9mon to the Bench. Your opponent chooses the new Active Pok\u00e9mon.",
+    "energy_requisite": null,
+    "weakness": null,
+    "retreat_cost": null,
+    "ability": null
+  },
+  "273": {
+    "name": "Lt. Surge",
+    "rarity": "two_star",
+    "packs": [
+      "B"
+    ],
+    "staging": null,
+    "type": "Supporter",
+    "hp": null,
+    "move": null,
+    "special_condition": "Move all Energy from your Benched Pok\u00e9mon to Raichu, Electrode, or Electabuzz in the Active Spot.",
+    "energy_requisite": null,
+    "weakness": null,
+    "retreat_cost": null,
+    "ability": null
+  },
+  "274": {
+    "name": "Moltres EX",
+    "rarity": "two_star",
+    "packs": [
+      "A"
+    ],
+    "staging": "Basic",
+    "type": "Fire",
+    "hp": 140,
+    "move": {
+      "name": "Inferno Dive",
+      "damage": 70,
+      "special_condition": "Discard 1 Energy from this Pok\u00e9mon.",
+      "energy_requisite": [
+        "Fire",
+        "Colorless"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Water"
+    },
+    "retreat_cost": 2,
+    "ability": {
+      "name": "Burning Flames",
+      "text": "Take 1 Fire Energy from your discard pile and attach it to this Pok\u00e9mon."
+    }
+  },
+  "275": {
+    "name": "Articuno EX",
+    "rarity": "two_star",
+    "packs": [
+      "C"
+    ],
+    "staging": "Basic",
+    "type": "Water",
+    "hp": 140,
+    "move": {
+      "name": "Ice Wing",
+      "damage": 40,
+      "special_condition": null,
+      "energy_requisite": [
+        "Water",
+        "Colorless"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Electric"
+    },
+    "retreat_cost": 1,
+    "ability": {
+      "name": "Frost Guard",
+      "text": "Prevent all effects of attacks done to this Pok\u00e9mon during your opponent's next turn."
+    }
+  },
+  "276": {
+    "name": "Zapdos EX",
+    "rarity": "two_star",
+    "packs": [
+      "B"
+    ],
+    "staging": "Basic",
+    "type": "Electric",
+    "hp": 130,
+    "move": {
+      "name": "Thunder Strike",
+      "damage": 80,
+      "special_condition": "Flip a coin. If heads, this attack does 30 more damage.",
+      "energy_requisite": [
+        "Electric",
+        "Electric",
+        "Colorless"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Fighting"
+    },
+    "retreat_cost": 2,
+    "ability": null
+  },
+  "277": {
+    "name": "Gengar EX",
+    "rarity": "two_star",
+    "packs": [
+      "C"
+    ],
+    "staging": "Stage 2",
+    "type": "Psychic",
+    "hp": 170,
+    "move": {
+      "name": "Shadow Spell",
+      "damage": 100,
+      "special_condition": "Your opponent's Active Pok\u00e9mon cannot retreat during their next turn.",
+      "energy_requisite": [
+        "Psychic",
+        "Psychic",
+        "Colorless"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Psychic"
+    },
+    "retreat_cost": 2,
+    "ability": {
+      "name": "Nightmare Aura",
+      "text": "Put 2 damage counters on each of your opponent's Pok\u00e9mon."
+    }
+  },
+  "278": {
+    "name": "Machamp EX",
+    "rarity": "two_star",
+    "packs": [
+      "A"
+    ],
+    "staging": "Stage 2",
+    "type": "Fighting",
+    "hp": 180,
+    "move": {
+      "name": "Seismic Punch",
+      "damage": 120,
+      "special_condition": null,
+      "energy_requisite": [
+        "Fighting",
+        "Fighting",
+        "Colorless"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Psychic"
+    },
+    "retreat_cost": 3,
+    "ability": null
+  },
+  "279": {
+    "name": "Wigglytuff EX",
+    "rarity": "two_star",
+    "packs": [
+      "B"
+    ],
+    "staging": "Stage 1",
+    "type": "Normal",
+    "hp": 140,
+    "move": {
+      "name": "Sleepy Song",
+      "damage": 80,
+      "special_condition": "Your opponent's Active Pok\u00e9mon is now Asleep.",
+      "energy_requisite": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Fighting"
+    },
+    "retreat_cost": 2,
+    "ability": null
+  },
+  "280": {
+    "name": "Charizard EX",
+    "rarity": "three_star",
+    "packs": [
+      "A"
+    ],
+    "staging": "Stage 2",
+    "type": "Fire",
+    "hp": 180,
+    "move": {
+      "name": "Crimson Storm",
+      "damage": 300,
+      "special_condition": "Discard 3 Fire Energy attached to this Pok\u00e9mon.",
+      "energy_requisite": [
+        "Fire",
+        "Fire",
+        "Fire",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Water"
+    },
+    "retreat_cost": 4,
+    "ability": null
+  },
+  "281": {
+    "name": "Pikachu EX",
+    "rarity": "three_star",
+    "packs": [
+      "B"
+    ],
+    "staging": "Basic",
+    "type": "Electric",
+    "hp": 120,
+    "move": {
+      "name": "Circle Circuit",
+      "damage": "30\u00d7",
+      "special_condition": "This attack does 30 damage for each of your Benched Pok\u00e9mon.",
+      "energy_requisite": [
+        "Electric",
+        "Colorless"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Fighting"
+    },
+    "retreat_cost": 1,
+    "ability": null
+  },
+  "282": {
+    "name": "Mewtwo EX",
+    "rarity": "three_star",
+    "packs": [
+      "C"
+    ],
+    "staging": "Basic",
+    "type": "Psychic",
+    "hp": 150,
+    "move": {
+      "name": "Psydrive",
+      "damage": 150,
+      "special_condition": "Discard 1 Psychic Energy attached to this Pok\u00e9mon.",
+      "energy_requisite": [
+        "Psychic",
+        "Psychic",
+        "Colorless"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Psychic"
+    },
+    "retreat_cost": 2,
+    "ability": null
+  },
+  "283": {
+    "name": "Mew",
+    "rarity": "three_star",
+    "packs": [
+      null
+    ],
+    "staging": "Basic",
+    "type": "Psychic",
+    "hp": 70,
+    "move": {
+      "name": "Day Report",
+      "damage": 20,
+      "special_condition": "Draw a card for each of your opponent's Benched Pok\u00e9mon.",
+      "energy_requisite": [
+        "Psychic"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Psychic"
+    },
+    "retreat_cost": 1,
+    "ability": null
+  },
+  "284": {
+    "name": "Charizard EX",
+    "rarity": "crown",
+    "packs": [
+      "A",
+      "B",
+      "C"
+    ],
+    "staging": "Stage 2",
+    "type": "Fire",
+    "hp": 180,
+    "move": {
+      "name": "Crimson Storm",
+      "damage": 300,
+      "special_condition": "Discard 3 Fire Energy attached to this Pok\u00e9mon.",
+      "energy_requisite": [
+        "Fire",
+        "Fire",
+        "Fire",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Water"
+    },
+    "retreat_cost": 4,
+    "ability": null
+  },
+  "285": {
+    "name": "Pikachu EX",
+    "rarity": "crown",
+    "packs": [
+      "A",
+      "B",
+      "C"
+    ],
+    "staging": "Basic",
+    "type": "Electric",
+    "hp": 120,
+    "move": {
+      "name": "Circle Circuit",
+      "damage": "30\u00d7",
+      "special_condition": "This attack does 30 damage for each of your Benched Pok\u00e9mon.",
+      "energy_requisite": [
+        "Electric",
+        "Colorless"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Fighting"
+    },
+    "retreat_cost": 1,
+    "ability": null
+  },
+  "286": {
+    "name": "Mewtwo EX",
+    "rarity": "crown",
+    "packs": [
+      "A",
+      "B",
+      "C"
+    ],
+    "staging": "Basic",
+    "type": "Psychic",
+    "hp": 150,
+    "move": {
+      "name": "Psydrive",
+      "damage": 150,
+      "special_condition": "Discard 1 Psychic Energy attached to this Pok\u00e9mon.",
+      "energy_requisite": [
+        "Psychic",
+        "Psychic",
+        "Colorless"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Psychic"
+    },
+    "retreat_cost": 2,
+    "ability": null
+  },
+  "287": {
+    "name": "Exeggcute",
+    "rarity": "1_diamond",
+    "packs": [
+      "D"
+    ],
+    "staging": "Basic",
+    "type": "Grass",
+    "hp": 50,
+    "move": {
+      "name": "Growth Spurt",
+      "damage": null,
+      "special_condition": "Take a Grass Energy from your discard pile and attach it to this Pok\u00e9mon.",
+      "energy_requisite": [
+        "Colorless"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Fire"
+    },
+    "retreat_cost": 1,
+    "ability": null
+  },
+  "288": {
+    "name": "Exeggutor",
+    "rarity": "3_diamond",
+    "packs": [
+      "D"
+    ],
+    "staging": "Stage 1",
+    "type": "Grass",
+    "hp": 130,
+    "move": {
+      "name": "Psychic",
+      "damage": "80+",
+      "special_condition": "This attack does 20 more damage for each Energy attached to your opponent's Active Pok\u00e9mon.",
+      "energy_requisite": [
+        "Psychic",
+        "Colorless"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Fire"
+    },
+    "retreat_cost": 2,
+    "ability": null
+  },
+  "289": {
+    "name": "Celebi EX",
+    "rarity": "4_diamond",
+    "packs": [
+      "D"
+    ],
+    "staging": "Basic",
+    "type": "Grass",
+    "hp": 130,
+    "move": {
+      "name": "Powerful Bloom",
+      "damage": "50+",
+      "special_condition": "Flip a coin for each Energy attached to this Pok\u00e9mon. This attack does 50 more damage for each heads.",
+      "energy_requisite": [
+        "Grass",
+        "Colorless"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Fire"
+    },
+    "retreat_cost": 1,
+    "ability": null
+  },
+  "290": {
+    "name": "Snivy",
+    "rarity": "1_diamond",
+    "packs": [
+      "D"
+    ],
+    "staging": "Basic",
+    "type": "Grass",
+    "hp": 70,
+    "move": {
+      "name": "Vine Whip",
+      "damage": 40,
+      "special_condition": null,
+      "energy_requisite": [
+        "Grass",
+        "Colorless"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Fire"
+    },
+    "retreat_cost": 1,
+    "ability": null
+  },
+  "291": {
+    "name": "Servine",
+    "rarity": "2_diamond",
+    "packs": [
+      "D"
+    ],
+    "staging": "Stage 1",
+    "type": "Grass",
+    "hp": 80,
+    "move": {
+      "name": "Vine Whip",
+      "damage": 40,
+      "special_condition": null,
+      "energy_requisite": [
+        "Grass",
+        "Colorless"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Fire"
+    },
+    "retreat_cost": 1,
+    "ability": null
+  },
+  "292": {
+    "name": "Serperior",
+    "rarity": "3_diamond",
+    "packs": [
+      "D"
+    ],
+    "staging": "Stage 2",
+    "type": "Grass",
+    "hp": 110,
+    "move": {
+      "name": "Solar Beam",
+      "damage": 70,
+      "special_condition": null,
+      "energy_requisite": [
+        "Grass",
+        "Grass",
+        "Colorless"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Fire"
+    },
+    "retreat_cost": 2,
+    "ability": {
+      "name": "Jungle Totem",
+      "text": "Each Grass Energy attached to your Grass Pok\u00e9mon provides 2 Grass Energy. This effect doesn't stack."
+    }
+  },
+  "293": {
+    "name": "Morelull",
+    "rarity": "1_diamond",
+    "packs": [
+      "D"
+    ],
+    "staging": "Basic",
+    "type": "Grass",
+    "hp": 60,
+    "move": {
+      "name": "Ram",
+      "damage": 20,
+      "special_condition": null,
+      "energy_requisite": [
+        "Colorless"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Fire"
+    },
+    "retreat_cost": 1,
+    "ability": null
+  },
+  "294": {
+    "name": "Shiinotic",
+    "rarity": "3_diamond",
+    "packs": [
+      "D"
+    ],
+    "staging": "Stage 1",
+    "type": "Grass",
+    "hp": 90,
+    "move": {
+      "name": "Flickering Spores",
+      "damage": 50,
+      "special_condition": "Your opponent's Active Pok\u00e9mon is now Asleep.",
+      "energy_requisite": [
+        "Grass",
+        "Colorless"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Fire"
+    },
+    "retreat_cost": 1,
+    "ability": null
+  },
+  "295": {
+    "name": "Dhelmise",
+    "rarity": "3_diamond",
+    "packs": [
+      "D"
+    ],
+    "staging": "Basic",
+    "type": "Grass",
+    "hp": 100,
+    "move": {
+      "name": "Energy Whip",
+      "damage": "20+",
+      "special_condition": "If this Pok\u00e9mon has at least 2 Grass Energy attached, this attack does 20 more damage.",
+      "energy_requisite": [
+        "Grass",
+        "Colorless"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Fire"
+    },
+    "retreat_cost": 2,
+    "ability": null
+  },
+  "296": {
+    "name": "Ponyta",
+    "rarity": "1_diamond",
+    "packs": [
+      "D"
+    ],
+    "staging": "Basic",
+    "type": "Fire",
+    "hp": 60,
+    "move": {
+      "name": "Stomp",
+      "damage": "10+",
+      "special_condition": "Flip a coin. If heads, this attack does 20 more damage.",
+      "energy_requisite": [
+        "Fire"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Water"
+    },
+    "retreat_cost": 1,
+    "ability": null
+  },
+  "297": {
+    "name": "Rapidash",
+    "rarity": "2_diamond",
+    "packs": [
+      "D"
+    ],
+    "staging": "Stage 1",
+    "type": "Fire",
+    "hp": 100,
+    "move": {
+      "name": "Rising Lunge",
+      "damage": "40+",
+      "special_condition": "Flip a coin. If heads, this attack does 20 more damage.",
+      "energy_requisite": [
+        "Fire",
+        "Colorless"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Water"
+    },
+    "retreat_cost": 1,
+    "ability": null
+  },
+  "298": {
+    "name": "Magmar",
+    "rarity": "1_diamond",
+    "packs": [
+      "D"
+    ],
+    "staging": "Basic",
+    "type": "Fire",
+    "hp": 80,
+    "move": {
+      "name": "Fire Blast",
+      "damage": 80,
+      "special_condition": "Discard 2 Fire Energy from this Pok\u00e9mon.",
+      "energy_requisite": [
+        "Fire",
+        "Fire",
+        "Colorless"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Water"
+    },
+    "retreat_cost": 2,
+    "ability": null
+  },
+  "299": {
+    "name": "Larvesta",
+    "rarity": "1_diamond",
+    "packs": [
+      "D"
+    ],
+    "staging": "Basic",
+    "type": "Fire",
+    "hp": 80,
+    "move": {
+      "name": "Combustion",
+      "damage": 30,
+      "special_condition": null,
+      "energy_requisite": [
+        "Fire",
+        "Colorless"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Water"
+    },
+    "retreat_cost": 1,
+    "ability": null
+  },
+  "300": {
+    "name": "Volcarona",
+    "rarity": "3_diamond",
+    "packs": [
+      "D"
+    ],
+    "staging": "Stage 1",
+    "type": "Fire",
+    "hp": 120,
+    "move": {
+      "name": "Volcanic Ash",
+      "damage": "80+",
+      "special_condition": "Discard 2 Fire Energy from this Pok\u00e9mon. This attack does 80 damage to 2 of your opponent's Pok\u00e9mon.",
+      "energy_requisite": [
+        "Fire",
+        "Fire",
+        "Colorless"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Water"
+    },
+    "retreat_cost": 2,
+    "ability": null
+  },
+  "301": {
+    "name": "Salandit",
+    "rarity": "1_diamond",
+    "packs": [
+      "D"
+    ],
+    "staging": "Basic",
+    "type": "Fire",
+    "hp": 60,
+    "move": {
+      "name": "Venoshock",
+      "damage": 20,
+      "special_condition": "If your opponent's Active Pok\u00e9mon is Poisoned, this attack does 20 more damage.",
+      "energy_requisite": [
+        "Fire"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Water"
+    },
+    "retreat_cost": 1,
+    "ability": null
+  },
+  "302": {
+    "name": "Salazzle",
+    "rarity": "3_diamond",
+    "packs": [
+      "D"
+    ],
+    "staging": "Stage 1",
+    "type": "Fire",
+    "hp": 80,
+    "move": {
+      "name": "Poison Claws",
+      "damage": null,
+      "special_condition": "Your opponent's Active Pok\u00e9mon is now Poisoned.",
+      "energy_requisite": [
+        "Fire"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Water"
+    },
+    "retreat_cost": 1,
+    "ability": null
+  },
+  "303": {
+    "name": "Magikarp",
+    "rarity": "1_diamond",
+    "packs": [
+      "D"
+    ],
+    "staging": "Basic",
+    "type": "Water",
+    "hp": 30,
+    "move": {
+      "name": "Leap Out",
+      "damage": null,
+      "special_condition": "Switch this Pok\u00e9mon with 1 of your Benched Pok\u00e9mon.",
+      "energy_requisite": [
+        "Water"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Electric"
+    },
+    "retreat_cost": 1,
+    "ability": null
+  },
+  "304": {
+    "name": "Gyarados EX",
+    "rarity": "4_diamond",
+    "packs": [
+      "D"
+    ],
+    "staging": "Stage 1",
+    "type": "Water",
+    "hp": 180,
+    "move": {
+      "name": "Rampaging Whirlpool",
+      "damage": 230,
+      "special_condition": "Discard the top 3 cards from your deck.",
+      "energy_requisite": [
+        "Water",
+        "Water",
+        "Water",
+        "Colorless"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Electric"
+    },
+    "retreat_cost": 3,
+    "ability": null
+  },
+  "305": {
+    "name": "Vaporeon",
+    "rarity": "3_diamond",
+    "packs": [
+      "D"
+    ],
+    "staging": "Stage 1",
+    "type": "Water",
+    "hp": 120,
+    "move": {
+      "name": "Wave Splash",
+      "damage": 40,
+      "special_condition": null,
+      "energy_requisite": [
+        "Water",
+        "Colorless"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Electric"
+    },
+    "retreat_cost": 1,
+    "ability": {
+      "name": "Wash Out",
+      "text": "As often as you like during your turn, you may move a Water Energy from 1 of your Pok\u00e9mon to another Water Pok\u00e9mon."
+    }
+  },
+  "306": {
+    "name": "Finneon",
+    "rarity": "1_diamond",
+    "packs": [
+      "D"
+    ],
+    "staging": "Basic",
+    "type": "Water",
+    "hp": 60,
+    "move": {
+      "name": "Water Gun",
+      "damage": 20,
+      "special_condition": null,
+      "energy_requisite": [
+        "Water"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Electric"
+    },
+    "retreat_cost": 1,
+    "ability": null
+  },
+  "307": {
+    "name": "Lumineon",
+    "rarity": "2_diamond",
+    "packs": [
+      "D"
+    ],
+    "staging": "Stage 1",
+    "type": "Water",
+    "hp": 80,
+    "move": {
+      "name": "Aqua Liner",
+      "damage": 50,
+      "special_condition": "This attack does 50 damage to 1 of your opponent's Benched Pok\u00e9mon.",
+      "energy_requisite": [
+        "Water",
+        "Colorless"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Electric"
+    },
+    "retreat_cost": 1,
+    "ability": null
+  },
+  "308": {
+    "name": "Chewtle",
+    "rarity": "1_diamond",
+    "packs": [
+      "D"
+    ],
+    "staging": "Basic",
+    "type": "Water",
+    "hp": 80,
+    "move": {
+      "name": "Bite",
+      "damage": 30,
+      "special_condition": null,
+      "energy_requisite": [
+        "Water",
+        "Colorless"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Electric"
+    },
+    "retreat_cost": 2,
+    "ability": null
+  },
+  "309": {
+    "name": "Drednaw",
+    "rarity": "3_diamond",
+    "packs": [
+      "D"
+    ],
+    "staging": "Stage 1",
+    "type": "Water",
+    "hp": 130,
+    "move": {
+      "name": "Crunch",
+      "damage": 70,
+      "special_condition": "Flip a coin. If heads, discard an Energy from your opponent's Active Pok\u00e9mon.",
+      "energy_requisite": [
+        "Water",
+        "Water",
+        "Colorless"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Electric"
+    },
+    "retreat_cost": 3,
+    "ability": null
+  },
+  "310": {
+    "name": "Cramorant",
+    "rarity": "2_diamond",
+    "packs": [
+      "D"
+    ],
+    "staging": "Basic",
+    "type": "Water",
+    "hp": 80,
+    "move": {
+      "name": "Dive",
+      "damage": 60,
+      "special_condition": "Flip a coin. If heads, during your opponent's next turn, prevent all effects of attacks, including damage, done to this Pok\u00e9mon.",
+      "energy_requisite": [
+        "Water",
+        "Colorless"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Electric"
+    },
+    "retreat_cost": 1,
+    "ability": null
+  },
+  "311": {
+    "name": "Pikachu",
+    "rarity": "1_diamond",
+    "packs": [
+      "D"
+    ],
+    "staging": "Basic",
+    "type": "Electric",
+    "hp": 60,
+    "move": {
+      "name": "Circle Circuit",
+      "damage": "10+",
+      "special_condition": "This attack does 10 more damage for each of your Benched Pok\u00e9mon.",
+      "energy_requisite": [
+        "Electric"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Fighting"
+    },
+    "retreat_cost": 1,
+    "ability": null
+  },
+  "312": {
+    "name": "Raichu",
+    "rarity": "3_diamond",
+    "packs": [
+      "D"
+    ],
+    "staging": "Stage 1",
+    "type": "Electric",
+    "hp": 120,
+    "move": {
+      "name": "Gigashock",
+      "damage": 60,
+      "special_condition": "This attack does 20 damage to 2 of your opponent's Benched Pok\u00e9mon.",
+      "energy_requisite": [
+        "Electric",
+        "Colorless"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Fighting"
+    },
+    "retreat_cost": 1,
+    "ability": null
+  },
+  "313": {
+    "name": "Electabuzz",
+    "rarity": "1_diamond",
+    "packs": [
+      "D"
+    ],
+    "staging": "Basic",
+    "type": "Electric",
+    "hp": 70,
+    "move": {
+      "name": "Thunder Spear",
+      "damage": 30,
+      "special_condition": "This attack does 10 damage to 1 of your opponent's Pok\u00e9mon.",
+      "energy_requisite": [
+        "Electric"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Fighting"
+    },
+    "retreat_cost": 1,
+    "ability": null
+  },
+  "314": {
+    "name": "Joltik",
+    "rarity": "1_diamond",
+    "packs": [
+      "D"
+    ],
+    "staging": "Basic",
+    "type": "Electric",
+    "hp": 40,
+    "move": {
+      "name": "Bug Bite",
+      "damage": 30,
+      "special_condition": null,
+      "energy_requisite": [
+        "Electric"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Fighting"
+    },
+    "retreat_cost": 1,
+    "ability": null
+  },
+  "315": {
+    "name": "Galvantula",
+    "rarity": "2_diamond",
+    "packs": [
+      "D"
+    ],
+    "staging": "Stage 1",
+    "type": "Electric",
+    "hp": 80,
+    "move": {
+      "name": "Electroweb",
+      "damage": 70,
+      "special_condition": "During your opponent's next turn, the Defending Pok\u00e9mon cannot retreat.",
+      "energy_requisite": [
+        "Electric",
+        "Colorless"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Fighting"
+    },
+    "retreat_cost": 1,
+    "ability": null
+  },
+  "316": {
+    "name": "Dedenne",
+    "rarity": "1_diamond",
+    "packs": [
+      "D"
+    ],
+    "staging": "Basic",
+    "type": "Electric",
+    "hp": 60,
+    "move": {
+      "name": "Thunder Shock",
+      "damage": 30,
+      "special_condition": "Flip a coin. If heads, your opponent's Active Pok\u00e9mon is now Paralyzed.",
+      "energy_requisite": [
+        "Electric",
+        "Colorless"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Fighting"
+    },
+    "retreat_cost": 1,
+    "ability": null
+  },
+  "317": {
+    "name": "Mew",
+    "rarity": "2_diamond",
+    "packs": [
+      "D"
+    ],
+    "staging": "Basic",
+    "type": "Psychic",
+    "hp": 60,
+    "move": {
+      "name": "Psy Report",
+      "damage": 20,
+      "special_condition": "Look at your opponent's hand.",
+      "energy_requisite": [
+        "Psychic"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Psychic"
+    },
+    "retreat_cost": 1,
+    "ability": null
+  },
+  "318": {
+    "name": "Mew EX",
+    "rarity": "5_diamond",
+    "packs": [
+      "D"
+    ],
+    "staging": "Basic",
+    "type": "Psychic",
+    "hp": 130,
+    "move": {
+      "name": "Genome Hacking",
+      "damage": 20,
+      "special_condition": "Choose 1 of your opponent's Pok\u00e9mon's attacks and use it as this attack. You must still meet the Energy requirements.",
+      "energy_requisite": [
+        "Psychic",
+        "Colorless"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Psychic"
+    },
+    "retreat_cost": 1,
+    "ability": null
+  },
+  "319": {
+    "name": "Sigilyph",
+    "rarity": "2_diamond",
+    "packs": [
+      "D"
+    ],
+    "staging": "Basic",
+    "type": "Psychic",
+    "hp": 80,
+    "move": {
+      "name": "Spike Draw",
+      "damage": 10,
+      "special_condition": "Draw a card.",
+      "energy_requisite": [
+        "Psychic"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Psychic"
+    },
+    "retreat_cost": 1,
+    "ability": null
+  },
+  "320": {
+    "name": "Elgyem",
+    "rarity": "1_diamond",
+    "packs": [
+      "D"
+    ],
+    "staging": "Basic",
+    "type": "Psychic",
+    "hp": 60,
+    "move": {
+      "name": "Headbutt",
+      "damage": 20,
+      "special_condition": null,
+      "energy_requisite": [
+        "Psychic"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Psychic"
+    },
+    "retreat_cost": 1,
+    "ability": null
+  },
+  "321": {
+    "name": "Beheeyem",
+    "rarity": "2_diamond",
+    "packs": [
+      "D"
+    ],
+    "staging": "Stage 1",
+    "type": "Psychic",
+    "hp": 90,
+    "move": {
+      "name": "Mind Jack",
+      "damage": "10+",
+      "special_condition": "This attack does 20 more damage for each of your opponent's Benched Pok\u00e9mon.",
+      "energy_requisite": [
+        "Psychic",
+        "Colorless"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Psychic"
+    },
+    "retreat_cost": 1,
+    "ability": null
+  },
+  "322": {
+    "name": "Flab\u00e9b\u00e9",
+    "rarity": "1_diamond",
+    "packs": [
+      "D"
+    ],
+    "staging": "Basic",
+    "type": "Fairy",
+    "hp": 40,
+    "move": {
+      "name": "Hypnotic Gaze",
+      "damage": null,
+      "special_condition": "Your opponent's Active Pok\u00e9mon is now Asleep.",
+      "energy_requisite": [
+        "Fairy"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Steel"
+    },
+    "retreat_cost": 1,
+    "ability": null
+  },
+  "323": {
+    "name": "Floette",
+    "rarity": "2_diamond",
+    "packs": [
+      "D"
+    ],
+    "staging": "Stage 1",
+    "type": "Fairy",
+    "hp": 70,
+    "move": {
+      "name": "Leaf Drain",
+      "damage": 40,
+      "special_condition": "Heal 10 damage from this Pok\u00e9mon.",
+      "energy_requisite": [
+        "Fairy",
+        "Colorless"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Steel"
+    },
+    "retreat_cost": 1,
+    "ability": null
+  },
+  "324": {
+    "name": "Florges",
+    "rarity": "3_diamond",
+    "packs": [
+      "D"
+    ],
+    "staging": "Stage 2",
+    "type": "Fairy",
+    "hp": 120,
+    "move": {
+      "name": "Bloomshine",
+      "damage": 80,
+      "special_condition": "Heal 20 damage from each of your Pok\u00e9mon.",
+      "energy_requisite": [
+        "Fairy",
+        "Fairy",
+        "Colorless"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Steel"
+    },
+    "retreat_cost": 2,
+    "ability": null
+  },
+  "325": {
+    "name": "Swirlix",
+    "rarity": "1_diamond",
+    "packs": [
+      "D"
+    ],
+    "staging": "Basic",
+    "type": "Fairy",
+    "hp": 60,
+    "move": {
+      "name": "Fairy Wind",
+      "damage": 20,
+      "special_condition": null,
+      "energy_requisite": [
+        "Fairy"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Steel"
+    },
+    "retreat_cost": 1,
+    "ability": null
+  },
+  "326": {
+    "name": "Slurpuff",
+    "rarity": "2_diamond",
+    "packs": [
+      "D"
+    ],
+    "staging": "Stage 1",
+    "type": "Fairy",
+    "hp": 100,
+    "move": {
+      "name": "Magical Shot",
+      "damage": 60,
+      "special_condition": null,
+      "energy_requisite": [
+        "Fairy",
+        "Colorless"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Steel"
+    },
+    "retreat_cost": 1,
+    "ability": null
+  },
+  "327": {
+    "name": "Mankey",
+    "rarity": "1_diamond",
+    "packs": [
+      "D"
+    ],
+    "staging": "Basic",
+    "type": "Fighting",
+    "hp": 50,
+    "move": {
+      "name": "Focus Fist",
+      "damage": "50\u00d7",
+      "special_condition": "Flip a coin. If tails, this attack does nothing.",
+      "energy_requisite": [
+        "Fighting"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Psychic"
+    },
+    "retreat_cost": 1,
+    "ability": null
+  },
+  "328": {
+    "name": "Primeape",
+    "rarity": "2_diamond",
+    "packs": [
+      "D"
+    ],
+    "staging": "Stage 1",
+    "type": "Fighting",
+    "hp": 80,
+    "move": {
+      "name": "Punch",
+      "damage": 50,
+      "special_condition": null,
+      "energy_requisite": [
+        "Fighting",
+        "Colorless"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Psychic"
+    },
+    "retreat_cost": 1,
+    "ability": null
+  },
+  "329": {
+    "name": "Geodude",
+    "rarity": "1_diamond",
+    "packs": [
+      "D"
+    ],
+    "staging": "Basic",
+    "type": "Fighting",
+    "hp": 70,
+    "move": {
+      "name": "Light Punch",
+      "damage": 30,
+      "special_condition": null,
+      "energy_requisite": [
+        "Fighting",
+        "Colorless"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Grass"
+    },
+    "retreat_cost": 1,
+    "ability": null
+  },
+  "330": {
+    "name": "Graveler",
+    "rarity": "2_diamond",
+    "packs": [
+      "D"
+    ],
+    "staging": "Stage 1",
+    "type": "Fighting",
+    "hp": 100,
+    "move": {
+      "name": "Lunge Out",
+      "damage": 40,
+      "special_condition": null,
+      "energy_requisite": [
+        "Fighting",
+        "Fighting",
+        "Colorless"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Grass"
+    },
+    "retreat_cost": 2,
+    "ability": null
+  },
+  "331": {
+    "name": "Golem",
+    "rarity": "3_diamond",
+    "packs": [
+      "D"
+    ],
+    "staging": "Stage 2",
+    "type": "Fighting",
+    "hp": 160,
+    "move": {
+      "name": "Guard Press",
+      "damage": 120,
+      "special_condition": "During your opponent's next turn, this Pok\u00e9mon takes 30 less damage from attacks.",
+      "energy_requisite": [
+        "Fighting",
+        "Fighting",
+        "Colorless"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Grass"
+    },
+    "retreat_cost": 4,
+    "ability": null
+  },
+  "332": {
+    "name": "Aerodactyl EX",
+    "rarity": "5_diamond",
+    "packs": [
+      "D"
+    ],
+    "staging": "Basic",
+    "type": "Fighting",
+    "hp": 140,
+    "move": {
+      "name": "Land Crush",
+      "damage": 80,
+      "special_condition": null,
+      "energy_requisite": [
+        "Fighting",
+        "Fighting"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Grass"
+    },
+    "retreat_cost": 2,
+    "ability": {
+      "name": "Primeval Law",
+      "text": "Your opponent can't play any Pok\u00e9mon from their hand to evolve their Active Pok\u00e9mon."
+    }
+  },
+  "333": {
+    "name": "Marshadow",
+    "rarity": "2_diamond",
+    "packs": [
+      "D"
+    ],
+    "staging": "Basic",
+    "type": "Fighting",
+    "hp": 80,
+    "move": {
+      "name": "Revenge",
+      "damage": "40+",
+      "special_condition": "If any of your Pok\u00e9mon were Knocked Out by damage from an attack during your opponent's last turn, this attack does 80 more damage.",
+      "energy_requisite": [
+        "Fighting",
+        "Colorless"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Psychic"
+    },
+    "retreat_cost": 1,
+    "ability": null
+  },
+  "334": {
+    "name": "Stonjourner",
+    "rarity": "3_diamond",
+    "packs": [
+      "D"
+    ],
+    "staging": "Basic",
+    "type": "Fighting",
+    "hp": 120,
+    "move": {
+      "name": "Mega Kick",
+      "damage": 90,
+      "special_condition": null,
+      "energy_requisite": [
+        "Fighting",
+        "Fighting",
+        "Colorless"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Grass"
+    },
+    "retreat_cost": 3,
+    "ability": null
+  },
+  "335": {
+    "name": "Koffing",
+    "rarity": "1_diamond",
+    "packs": [
+      "D"
+    ],
+    "staging": "Basic",
+    "type": "Dark",
+    "hp": 70,
+    "move": {
+      "name": "Division",
+      "damage": null,
+      "special_condition": "Put 2 Koffing from your deck onto your Bench.",
+      "energy_requisite": [
+        "Colorless"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Psychic"
+    },
+    "retreat_cost": 1,
+    "ability": null
+  },
+  "336": {
+    "name": "Weezing",
+    "rarity": "2_diamond",
+    "packs": [
+      "D"
+    ],
+    "staging": "Stage 1",
+    "type": "Dark",
+    "hp": 110,
+    "move": {
+      "name": "Smokescreen",
+      "damage": 50,
+      "special_condition": "During your opponent's next turn, if the Defending Pok\u00e9mon tries to attack, your opponent flips a coin. If tails, that attack does nothing.",
+      "energy_requisite": [
+        "Dark",
+        "Colorless"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Psychic"
+    },
+    "retreat_cost": 1,
+    "ability": null
+  },
+  "337": {
+    "name": "Purrloin",
+    "rarity": "1_diamond",
+    "packs": [
+      "D"
+    ],
+    "staging": "Basic",
+    "type": "Dark",
+    "hp": 60,
+    "move": {
+      "name": "Scratch",
+      "damage": 20,
+      "special_condition": null,
+      "energy_requisite": [
+        "Colorless"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Fighting"
+    },
+    "retreat_cost": 1,
+    "ability": null
+  },
+  "338": {
+    "name": "Liepard",
+    "rarity": "2_diamond",
+    "packs": [
+      "D"
+    ],
+    "staging": "Stage 1",
+    "type": "Dark",
+    "hp": 90,
+    "move": {
+      "name": "Slash",
+      "damage": 40,
+      "special_condition": null,
+      "energy_requisite": [
+        "Dark",
+        "Colorless"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Fighting"
+    },
+    "retreat_cost": 1,
+    "ability": null
+  },
+  "339": {
+    "name": "Venipede",
+    "rarity": "1_diamond",
+    "packs": [
+      "D"
+    ],
+    "staging": "Basic",
+    "type": "Dark",
+    "hp": 60,
+    "move": {
+      "name": "Ram",
+      "damage": 20,
+      "special_condition": null,
+      "energy_requisite": [
+        "Dark"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Psychic"
+    },
+    "retreat_cost": 1,
+    "ability": null
+  },
+  "340": {
+    "name": "Whirlipede",
+    "rarity": "2_diamond",
+    "packs": [
+      "D"
+    ],
+    "staging": "Stage 1",
+    "type": "Dark",
+    "hp": 90,
+    "move": {
+      "name": "Poison Sting",
+      "damage": 20,
+      "special_condition": "Your opponent's Active Pok\u00e9mon is now Poisoned.",
+      "energy_requisite": [
+        "Dark",
+        "Colorless"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Psychic"
+    },
+    "retreat_cost": 1,
+    "ability": null
+  },
+  "341": {
+    "name": "Scolipede",
+    "rarity": "2_diamond",
+    "packs": [
+      "D"
+    ],
+    "staging": "Stage 2",
+    "type": "Dark",
+    "hp": 140,
+    "move": {
+      "name": "Venoshock",
+      "damage": 70,
+      "special_condition": "If your opponent's Active Pok\u00e9mon is Poisoned, this attack does 70 more damage.",
+      "energy_requisite": [
+        "Dark",
+        "Colorless"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Psychic"
+    },
+    "retreat_cost": 3,
+    "ability": null
+  },
+  "342": {
+    "name": "Druddigon",
+    "rarity": "2_diamond",
+    "packs": [
+      "D"
+    ],
+    "staging": "Basic",
+    "type": "Dragon",
+    "hp": 100,
+    "move": {
+      "name": "Dragon Claw",
+      "damage": 90,
+      "special_condition": null,
+      "energy_requisite": [
+        "Fire",
+        "Water"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Fairy"
+    },
+    "retreat_cost": 2,
+    "ability": {
+      "name": "Rough Skin",
+      "text": "If this Pok\u00e9mon is your Active Pok\u00e9mon and is damaged by an attack from your opponent's Pok\u00e9mon, put 2 damage counters on the Attacking Pok\u00e9mon."
+    }
+  },
+  "343": {
+    "name": "Pidgey",
+    "rarity": "1_diamond",
+    "packs": [
+      "D"
+    ],
+    "staging": "Basic",
+    "type": "Normal",
+    "hp": 50,
+    "move": {
+      "name": "Flap",
+      "damage": 20,
+      "special_condition": null,
+      "energy_requisite": [
+        "Colorless"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Electric"
+    },
+    "retreat_cost": 1,
+    "ability": null
+  },
+  "344": {
+    "name": "Pidgeotto",
+    "rarity": "2_diamond",
+    "packs": [
+      "D"
+    ],
+    "staging": "Stage 1",
+    "type": "Normal",
+    "hp": 90,
+    "move": {
+      "name": "Wing Attack",
+      "damage": 50,
+      "special_condition": null,
+      "energy_requisite": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Electric"
+    },
+    "retreat_cost": 1,
+    "ability": null
+  },
+  "345": {
+    "name": "Pidgeot EX",
+    "rarity": "5_diamond",
+    "packs": [
+      "D"
+    ],
+    "staging": "Stage 2",
+    "type": "Normal",
+    "hp": 170,
+    "move": {
+      "name": "Scattering Cyclone",
+      "damage": 80,
+      "special_condition": "This attack does 20 more damage for each of your opponent's Benched Pok\u00e9mon.",
+      "energy_requisite": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Electric"
+    },
+    "retreat_cost": 1,
+    "ability": null
+  },
+  "346": {
+    "name": "Tauros",
+    "rarity": "2_diamond",
+    "packs": [
+      "D"
+    ],
+    "staging": "Basic",
+    "type": "Normal",
+    "hp": 100,
+    "move": {
+      "name": "Fighting Tackle",
+      "damage": "40+",
+      "special_condition": "If your opponent's Active Pok\u00e9mon is a Fighting Pok\u00e9mon, this attack does 40 more damage.",
+      "energy_requisite": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Fighting"
+    },
+    "retreat_cost": 2,
+    "ability": null
+  },
+  "347": {
+    "name": "Eevee",
+    "rarity": "1_diamond",
+    "packs": [
+      "D"
+    ],
+    "staging": "Basic",
+    "type": "Normal",
+    "hp": 60,
+    "move": {
+      "name": "Continuous Steps",
+      "damage": "20\u00d7",
+      "special_condition": "Flip a coin until you get tails. This attack does 20 damage for each heads.",
+      "energy_requisite": [
+        "Colorless"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Fighting"
+    },
+    "retreat_cost": 1,
+    "ability": null
+  },
+  "348": {
+    "name": "Chatot",
+    "rarity": "2_diamond",
+    "packs": [
+      "D"
+    ],
+    "staging": "Basic",
+    "type": "Normal",
+    "hp": 60,
+    "move": {
+      "name": "Mimic",
+      "damage": null,
+      "special_condition": "Shuffle your hand into your deck. Draw a card for each card in your opponent's hand.",
+      "energy_requisite": [
+        "Colorless"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Electric"
+    },
+    "retreat_cost": 1,
+    "ability": null
+  },
+  "349": {
+    "name": "Pok\u00e9mon Flute",
+    "rarity": "2_diamond",
+    "packs": [
+      "D"
+    ],
+    "staging": null,
+    "type": "Item",
+    "hp": null,
+    "move": null,
+    "special_condition": "Put a Basic Pok\u00e9mon from your opponent's discard pile onto their Bench.",
+    "energy_requisite": null,
+    "weakness": null,
+    "retreat_cost": null,
+    "ability": null
+  },
+  "350": {
+    "name": "Mythical Slab",
+    "rarity": "2_diamond",
+    "packs": [
+      "D"
+    ],
+    "staging": null,
+    "type": "Item",
+    "hp": null,
+    "move": null,
+    "special_condition": "Look at the top card of your deck. If it's a Pok\u00e9mon, put it into your hand. If not, put it on the bottom of your deck.",
+    "energy_requisite": null,
+    "weakness": null,
+    "retreat_cost": null,
+    "ability": null
+  },
+  "351": {
+    "name": "Budding Expeditioner",
+    "2_diamond": "Supporter",
+    "packs": [
+      "D"
+    ],
+    "staging": null,
+    "type": "Supporter",
+    "hp": null,
+    "move": null,
+    "special_condition": "Put your Mew EX in the Active Spot into your hand.",
+    "energy_requisite": null,
+    "weakness": null,
+    "retreat_cost": null,
+    "ability": null
+  },
+  "352": {
+    "name": "Blue",
+    "rarity": "2_diamond",
+    "packs": [
+      "D"
+    ],
+    "staging": null,
+    "type": "Supporter",
+    "hp": null,
+    "move": null,
+    "special_condition": "During your opponent's next turn, all of your Pok\u00e9mon take 30 less damage from your opponent's Pok\u00e9mon.",
+    "energy_requisite": null,
+    "weakness": null,
+    "retreat_cost": null,
+    "ability": null
+  },
+  "353": {
+    "name": "Leaf",
+    "rarity": "2_diamond",
+    "packs": [
+      "D"
+    ],
+    "staging": null,
+    "type": "Supporter",
+    "hp": null,
+    "move": null,
+    "special_condition": "During this turn, the Retreat Cost of your Active Pok\u00e9mon is 2 less.",
+    "energy_requisite": null,
+    "weakness": null,
+    "retreat_cost": null,
+    "ability": null
+  },
+  "354": {
+    "name": "Exeggutor",
+    "rarity": "1_star",
+    "packs": [
+      "D"
+    ],
+    "staging": "Stage 1",
+    "type": "Grass",
+    "hp": 130,
+    "move": {
+      "name": "Psychic",
+      "damage": "80+",
+      "special_condition": "This attack does 20 more damage for each Energy attached to your opponent's Active Pok\u00e9mon.",
+      "energy_requisite": [
+        "Psychic",
+        "Colorless"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Fire"
+    },
+    "retreat_cost": 2,
+    "ability": null
+  },
+  "355": {
+    "name": "Serperior",
+    "rarity": "1_star",
+    "packs": [
+      "D"
+    ],
+    "staging": "Stage 2",
+    "type": "Grass",
+    "hp": 110,
+    "move": {
+      "name": "Solar Beam",
+      "damage": 70,
+      "special_condition": null,
+      "energy_requisite": [
+        "Grass",
+        "Grass",
+        "Colorless"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Fire"
+    },
+    "retreat_cost": 2,
+    "ability": {
+      "name": "Jungle Totem",
+      "text": "Each Grass Energy attached to your Grass Pok\u00e9mon provides 2 Grass Energy. This effect doesn't stack."
+    }
+  },
+  "356": {
+    "name": "Salandit",
+    "rarity": "1_star",
+    "packs": [
+      "D"
+    ],
+    "staging": "Basic",
+    "type": "Fire",
+    "hp": 60,
+    "move": {
+      "name": "Venoshock",
+      "damage": 20,
+      "special_condition": "If your opponent's Active Pok\u00e9mon is Poisoned, this attack does 20 more damage.",
+      "energy_requisite": [
+        "Fire"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Water"
+    },
+    "retreat_cost": 1,
+    "ability": null
+  },
+  "357": {
+    "name": "Vaporeon",
+    "rarity": "1_star",
+    "packs": [
+      "D"
+    ],
+    "staging": "Stage 1",
+    "type": "Water",
+    "hp": 120,
+    "move": {
+      "name": "Wave Splash",
+      "damage": 40,
+      "special_condition": null,
+      "energy_requisite": [
+        "Water",
+        "Colorless"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Electric"
+    },
+    "retreat_cost": 1,
+    "ability": {
+      "name": "Wash Out",
+      "text": "As often as you like during your turn, you may move a Water Energy from 1 of your Pok\u00e9mon to another Water Pok\u00e9mon."
+    }
+  },
+  "358": {
+    "name": "Dedenne EX",
+    "rarity": "1_star",
+    "packs": [
+      "D"
+    ],
+    "staging": "Basic",
+    "type": "Electric",
+    "hp": 60,
+    "move": {
+      "name": "Thunder Shock",
+      "damage": 10,
+      "special_condition": "Flip a coin. If heads, your opponent's Active Pok\u00e9mon is now Paralyzed.",
+      "energy_requisite": [
+        "Electric"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Fighting"
+    },
+    "retreat_cost": 1,
+    "ability": null
+  },
+  "359": {
+    "name": "Marshadow",
+    "rarity": "1_star",
+    "packs": [
+      "D"
+    ],
+    "staging": "Basic",
+    "type": "Fighting",
+    "hp": 80,
+    "move": {
+      "name": "Revenge",
+      "damage": "40+",
+      "special_condition": "If any of your Pok\u00e9mon were Knocked Out by damage from an attack during your opponent's last turn, this attack does 80 more damage.",
+      "energy_requisite": [
+        "Fighting",
+        "Colorless"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Psychic"
+    },
+    "retreat_cost": 1,
+    "ability": null
+  },
+  "360": {
+    "name": "Celebi EX",
+    "rarity": "2_star",
+    "packs": [
+      "D"
+    ],
+    "staging": "Basic",
+    "type": "Grass",
+    "hp": 130,
+    "move": {
+      "name": "Powerful Bloom",
+      "damage": 50,
+      "special_condition": "Flip a coin for each Energy attached to this Pok\u00e9mon. This attack does 50 more damage for each heads.",
+      "energy_requisite": [
+        "Grass",
+        "Colorless"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Fire"
+    },
+    "retreat_cost": 1,
+    "ability": null
+  },
+  "361": {
+    "name": "Gyarados EX",
+    "rarity": "2_star",
+    "packs": [
+      "D"
+    ],
+    "staging": "Stage 1",
+    "type": "Water",
+    "hp": 180,
+    "move": {
+      "name": "Rampaging Whirlpool",
+      "damage": 130,
+      "special_condition": "Discard an Energy from each of your opponent's Pok\u00e9mon.",
+      "energy_requisite": [
+        "Water",
+        "Water",
+        "Water"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Electric"
+    },
+    "retreat_cost": 3,
+    "ability": null
+  },
+  "362": {
+    "name": "Mew EX",
+    "rarity": "2_star",
+    "packs": [
+      "D"
+    ],
+    "staging": "Basic",
+    "type": "Psychic",
+    "hp": 130,
+    "move": {
+      "name": "Genome Hacking",
+      "damage": 20,
+      "special_condition": "Choose 1 of your opponent's Pok\u00e9mon's attacks and use it as this attack. You must still meet the Energy requirements.",
+      "energy_requisite": [
+        "Psychic",
+        "Colorless"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Psychic"
+    },
+    "retreat_cost": 1,
+    "ability": null
+  },
+  "363": {
+    "name": "Aerodactyl EX",
+    "rarity": "2_star",
+    "packs": [
+      "D"
+    ],
+    "staging": "Basic",
+    "type": "Fighting",
+    "hp": 140,
+    "move": {
+      "name": "Land Crush",
+      "damage": 80,
+      "special_condition": null,
+      "energy_requisite": [
+        "Fighting",
+        "Colorless"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Grass"
+    },
+    "retreat_cost": 2,
+    "ability": {
+      "name": "Primeval Law",
+      "text": "Your opponent can't play any Pok\u00e9mon from their hand to evolve their Active Pok\u00e9mon."
+    }
+  },
+  "364": {
+    "name": "Pidgeot EX",
+    "rarity": "2_star",
+    "packs": [
+      "D"
+    ],
+    "staging": "Stage 2",
+    "type": "Normal",
+    "hp": 170,
+    "move": {
+      "name": "Scattering Cyclone",
+      "damage": 80,
+      "special_condition": "This attack does 20 more damage for each of your opponent's Benched Pok\u00e9mon.",
+      "energy_requisite": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Electric"
+    },
+    "retreat_cost": 1,
+    "ability": null
+  },
+  "365": {
+    "name": "Budding Expeditioner",
+    "rarity": "2_star",
+    "packs": [
+      "D"
+    ],
+    "staging": null,
+    "type": null,
+    "hp": null,
+    "move": null,
+    "special_condition": "Put your Mew EX in the Active Spot into your hand.",
+    "energy_requisite": null,
+    "weakness": null,
+    "retreat_cost": null,
+    "ability": null
+  },
+  "366": {
+    "name": "Blue",
+    "rarity": "2_star",
+    "packs": [
+      "D"
+    ],
+    "staging": null,
+    "type": null,
+    "hp": null,
+    "move": null,
+    "special_condition": "During your opponent's next turn, all of your Pok\u00e9mon take 30 less damage from your opponent's Pok\u00e9mon.",
+    "energy_requisite": null,
+    "weakness": null,
+    "retreat_cost": null,
+    "ability": null
+  },
+  "367": {
+    "name": "Leaf",
+    "rarity": "2_star",
+    "packs": [
+      "D"
+    ],
+    "staging": null,
+    "type": null,
+    "hp": null,
+    "move": null,
+    "special_condition": "During this turn, the Retreat Cost of your Active Pok\u00e9mon is 2 less.",
+    "energy_requisite": null,
+    "weakness": null,
+    "retreat_cost": null,
+    "ability": null
+  },
+  "368": {
+    "name": "Mew EX",
+    "rarity": "2_star",
+    "packs": [
+      "D"
+    ],
+    "staging": "Basic",
+    "type": "Psychic",
+    "hp": 130,
+    "move": {
+      "name": "Genome Hacking",
+      "damage": 20,
+      "special_condition": "Choose 1 of your opponent's Pok\u00e9mon's attacks and use it as this attack. You must still meet the Energy requirements.",
+      "energy_requisite": [
+        "Psychic",
+        "Colorless"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Psychic"
+    },
+    "retreat_cost": 1,
+    "ability": null
+  },
+  "369": {
+    "name": "Aerodactyl EX",
+    "rarity": "2_star",
+    "packs": [
+      "D"
+    ],
+    "staging": "Basic",
+    "type": "Fighting",
+    "hp": 140,
+    "move": {
+      "name": "Land Crush",
+      "damage": 80,
+      "special_condition": null,
+      "energy_requisite": [
+        "Fighting",
+        "Colorless"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Grass"
+    },
+    "retreat_cost": 2,
+    "ability": {
+      "name": "Primeval Law",
+      "text": "Your opponent can't play any Pok\u00e9mon from their hand to evolve their Active Pok\u00e9mon."
+    }
+  },
+  "370": {
+    "name": "Celebi EX",
+    "rarity": "3_star",
+    "packs": [
+      "D"
+    ],
+    "staging": "Basic",
+    "type": "Grass",
+    "hp": 130,
+    "move": {
+      "name": "Powerful Bloom",
+      "damage": 50,
+      "special_condition": "Flip a coin for each Energy attached to this Pok\u00e9mon. This attack does 50 more damage for each heads.",
+      "energy_requisite": [
+        "Grass",
+        "Colorless"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Fire"
+    },
+    "retreat_cost": 1,
+    "ability": null
+  },
+  "371": {
+    "name": "Mew EX",
+    "rarity": "crown",
+    "packs": [
+      "D"
+    ],
+    "staging": "Stage 1",
+    "type": "Water",
+    "hp": 180,
+    "move": {
+      "name": "Rampaging Whirlpool",
+      "damage": 130,
+      "special_condition": "Discard an Energy from each of your opponent's Pok\u00e9mon.",
+      "energy_requisite": [
+        "Water",
+        "Water",
+        "Water"
+      ]
+    },
+    "weakness": {
+      "value": "+20",
+      "type": "Electric"
+    },
+    "retreat_cost": 3,
+    "ability": null
+  }
+}
